@@ -1,0 +1,3074 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The childs book and youths book in two parts. : The first teaching an easie and delightful way to read true English ... : The second containing a method for spelling, a catechism, a confession of faith, a copy book, a perpetual almanack ....</title>
+            <author>S. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 83 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79509</idno>
+            <idno type="STC">Wing C3874A</idno>
+            <idno type="STC">ESTC R173832</idno>
+            <idno type="EEBO-CITATION">45504421</idno>
+            <idno type="OCLC">ocm 45504421</idno>
+            <idno type="VID">171727</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171727)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2588:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The childs book and youths book in two parts. : The first teaching an easie and delightful way to read true English ... : The second containing a method for spelling, a catechism, a confession of faith, a copy book, a perpetual almanack ....</title>
+                  <author>S. T.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The eighth edition /</edition>
+               </editionStmt>
+               <extent>164 p. : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.T. and R.H. for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Children's literature, English --  Early works to 1800.</term>
+               <term>Readers (Primary) --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:171727:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb facs="tcp:171727:2"/>
+               <figure>
+                  <figDesc>Charles II wearing crown</figDesc>
+                  <head>C R</head>
+                  <q>God Save the King.</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:171727:2"/>
+THE CHILDS BOOK AND YOUTHS BOOK In two Parts.</p>
+            <p>The Firſt teaching an eaſie and de<g ref="char:EOLhyphen"/>lightful way to read true Engliſh, with ſeveral things neceſſary for Children to be inſtructed in: As Prayers, Graces, Be<g ref="char:EOLhyphen"/>havior, &amp; choice places of Scripture, &amp;c.</p>
+            <p>The Second Containing a Method for Spelling, A Catechiſm, A confeſſion of Faith, A Copy Book, A perpetual Almanack, A Chronology, Rules for Arithmetick, A form of Inditing Letters, and choice of Trades: With other uſeful things.</p>
+            <p>
+               <hi>The Eighth Edition by</hi> S. T.</p>
+            <p>LONDON, Printed by <hi>E. T.</hi> and <hi>R. H.</hi> for <hi>R. Royſton,</hi> Bookſeller to the Kings moſt ſacred Ma<g ref="char:EOLhyphen"/>jeſty, and are to be ſold at the Angel in S. <hi>Pauls</hi> Church-yard. 1672</p>
+         </div>
+         <div type="to_parents_and_teachers">
+            <pb facs="tcp:171727:3"/>
+            <head>To all Parents and Teachers of Children.</head>
+            <p>THis ſmall Book you will find fitted to a Childs capacity, full of delight, and very eaſie, containing ſuch matters needful for children and Youths to be in<g ref="char:EOLhyphen"/>ſtructed in. The childiſh paſſages paſs over: I hope they will be to children, as milk to babes; And there is not only milk for babes, but alſo meat for ſtronger Capa<g ref="char:EOLhyphen"/>cities. That it may pleaſe all, and offend none, is the deſire of</p>
+            <closer>
+               <signed>S. T.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:171727:3"/>
+            <head>THE CHILD'S BOOK.</head>
+            <div type="reading_method">
+               <div type="alphabet">
+                  <head>The Capital Letters.</head>
+                  <p>A B C D E F G H I K L M N O P Q R S T V U W X Y Z.</p>
+               </div>
+               <div type="alphabet">
+                  <head>The ſmall Roman Letters.</head>
+                  <p>a b c d e f g h i k l m n o p q r ſ s t v u w x y z.</p>
+               </div>
+               <div type="vowels">
+                  <head>The Vowels.</head>
+                  <p>a c i o u y.</p>
+               </div>
+               <div type="consonants">
+                  <head>The Conſonants.</head>
+                  <p>b c d f g h k l m n p q r ſ s t v w x y z.</p>
+               </div>
+               <div type="ligatures">
+                  <head>The double Letters.</head>
+                  <p>ct ff ſſ fi ſi fl ſl ſt ſh ffi ſſi ffl.</p>
+               </div>
+               <div type="alphabet">
+                  <pb facs="tcp:171727:4"/>
+                  <head>The great Italick Letters.</head>
+                  <p>
+                     <hi>A B C D E F G H I K L M N O P Q R S T V <g ref="char:V">Ʋ</g> W X Y Z.</hi>
+                  </p>
+               </div>
+               <div type="alphabet">
+                  <head>The ſmall Italick Letters.</head>
+                  <p>
+                     <hi>a b c d e f g h i k l m n o p q r ſ s t v u w x y z.</hi>
+                  </p>
+               </div>
+               <div type="alphabet">
+                  <head>The great Engliſh Letters.</head>
+                  <p>
+                     <hi>A B C D E F G H I K L M N O P Q R S T <g ref="char:V">Ʋ</g> W X Y Z.</hi>
+                  </p>
+               </div>
+               <div type="alphabet">
+                  <head>The ſmall Engliſh Letters.</head>
+                  <p>
+                     <hi>a b c d e f g h i k l m n o p q r r ſ s t v u w x y z.</hi>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>ab</cell>
+                           <cell>eb</cell>
+                           <cell>ib</cell>
+                           <cell>ob</cell>
+                           <cell>ub</cell>
+                        </row>
+                        <row>
+                           <cell>ac</cell>
+                           <cell>ec</cell>
+                           <cell>ic</cell>
+                           <cell>oc</cell>
+                           <cell>uc</cell>
+                        </row>
+                        <row>
+                           <cell>ad</cell>
+                           <cell>ed</cell>
+                           <cell>id</cell>
+                           <cell>od</cell>
+                           <cell>ud</cell>
+                        </row>
+                        <pb facs="tcp:171727:4"/>
+                        <row>
+                           <cell>af</cell>
+                           <cell>ef</cell>
+                           <cell>if</cell>
+                           <cell>of</cell>
+                           <cell>uf</cell>
+                        </row>
+                        <row>
+                           <cell>ag</cell>
+                           <cell>eg</cell>
+                           <cell>ig</cell>
+                           <cell>og</cell>
+                           <cell>ug</cell>
+                        </row>
+                        <row>
+                           <cell>ak</cell>
+                           <cell>ek</cell>
+                           <cell>ik</cell>
+                           <cell>ok</cell>
+                           <cell>uk</cell>
+                        </row>
+                        <row>
+                           <cell>al</cell>
+                           <cell>el</cell>
+                           <cell>il</cell>
+                           <cell>ol</cell>
+                           <cell>ul</cell>
+                        </row>
+                        <row>
+                           <cell>am</cell>
+                           <cell>em</cell>
+                           <cell>im</cell>
+                           <cell>om</cell>
+                           <cell>um</cell>
+                        </row>
+                        <row>
+                           <cell>an</cell>
+                           <cell>en</cell>
+                           <cell>in</cell>
+                           <cell>on</cell>
+                           <cell>un</cell>
+                        </row>
+                        <row>
+                           <cell>ap</cell>
+                           <cell>ep</cell>
+                           <cell>ip</cell>
+                           <cell>op</cell>
+                           <cell>up</cell>
+                        </row>
+                        <row>
+                           <cell>ar</cell>
+                           <cell>er</cell>
+                           <cell>ir</cell>
+                           <cell>or</cell>
+                           <cell>ur</cell>
+                        </row>
+                        <row>
+                           <cell>as</cell>
+                           <cell>es</cell>
+                           <cell>is</cell>
+                           <cell>os</cell>
+                           <cell>us</cell>
+                        </row>
+                        <row>
+                           <cell>at</cell>
+                           <cell>et</cell>
+                           <cell>it</cell>
+                           <cell>ot</cell>
+                           <cell>ut</cell>
+                        </row>
+                        <row>
+                           <cell>ax</cell>
+                           <cell>ex</cell>
+                           <cell>ix</cell>
+                           <cell>ox</cell>
+                           <cell>ux</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="vowels">
+                  <head>Sorts of Vowels.</head>
+                  <p>A E I O U Y</p>
+                  <p>
+                     <hi>A E I O <g ref="char:V">Ʋ</g> Y</hi>
+                  </p>
+                  <p>a e i o u y</p>
+                  <p>
+                     <hi>a e i o u y</hi>
+                  </p>
+                  <p>
+                     <hi>a e i o u y</hi>
+                  </p>
+               </div>
+               <div type="syllables">
+                  <pb facs="tcp:171727:5"/>
+                  <head>Syllables.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Ba</cell>
+                           <cell>
+                              <hi>Be</hi>
+                           </cell>
+                           <cell>
+                              <hi>bi</hi>
+                           </cell>
+                           <cell>bo</cell>
+                           <cell>bu</cell>
+                           <cell>
+                              <hi>by</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ca</cell>
+                           <cell>
+                              <hi>Ce</hi>
+                           </cell>
+                           <cell>
+                              <hi>ci</hi>
+                           </cell>
+                           <cell>co</cell>
+                           <cell>cu</cell>
+                           <cell>
+                              <hi>cy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Da</cell>
+                           <cell>
+                              <hi>De</hi>
+                           </cell>
+                           <cell>
+                              <hi>di</hi>
+                           </cell>
+                           <cell>do</cell>
+                           <cell>
+                              <hi>du</hi>
+                           </cell>
+                           <cell>
+                              <hi>dy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Fa</cell>
+                           <cell>
+                              <hi>Fe</hi>
+                           </cell>
+                           <cell>
+                              <hi>fi</hi>
+                           </cell>
+                           <cell>fo</cell>
+                           <cell>
+                              <hi>fu</hi>
+                           </cell>
+                           <cell>
+                              <hi>fy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ga</cell>
+                           <cell>
+                              <hi>Ge</hi>
+                           </cell>
+                           <cell>
+                              <hi>gi</hi>
+                           </cell>
+                           <cell>go</cell>
+                           <cell>
+                              <hi>gu</hi>
+                           </cell>
+                           <cell>
+                              <hi>gy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ha</cell>
+                           <cell>
+                              <hi>He</hi>
+                           </cell>
+                           <cell>
+                              <hi>hi</hi>
+                           </cell>
+                           <cell>ho</cell>
+                           <cell>
+                              <hi>hu</hi>
+                           </cell>
+                           <cell>
+                              <hi>hy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ka</cell>
+                           <cell>
+                              <hi>Ke</hi>
+                           </cell>
+                           <cell>
+                              <hi>ki</hi>
+                           </cell>
+                           <cell>ko</cell>
+                           <cell>
+                              <hi>ku</hi>
+                           </cell>
+                           <cell>
+                              <hi>ky</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>La</cell>
+                           <cell>
+                              <hi>Le</hi>
+                           </cell>
+                           <cell>
+                              <hi>li</hi>
+                           </cell>
+                           <cell>lo</cell>
+                           <cell>
+                              <hi>lu</hi>
+                           </cell>
+                           <cell>
+                              <hi>ly</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ma</cell>
+                           <cell>
+                              <hi>Me</hi>
+                           </cell>
+                           <cell>
+                              <hi>mi</hi>
+                           </cell>
+                           <cell>mo</cell>
+                           <cell>
+                              <hi>mu</hi>
+                           </cell>
+                           <cell>
+                              <hi>my</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Na</cell>
+                           <cell>
+                              <hi>Ne</hi>
+                           </cell>
+                           <cell>
+                              <hi>ni</hi>
+                           </cell>
+                           <cell>no</cell>
+                           <cell>
+                              <hi>nu</hi>
+                           </cell>
+                           <cell>
+                              <hi>ny</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Pa</cell>
+                           <cell>
+                              <hi>Pe</hi>
+                           </cell>
+                           <cell>
+                              <hi>pi</hi>
+                           </cell>
+                           <cell>po</cell>
+                           <cell>
+                              <hi>pu</hi>
+                           </cell>
+                           <cell>
+                              <hi>py</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Qua</cell>
+                           <cell>
+                              <hi>Que</hi>
+                           </cell>
+                           <cell>
+                              <hi>qui</hi>
+                           </cell>
+                           <cell>quo</cell>
+                           <cell>
+                              <hi>quu</hi>
+                           </cell>
+                           <cell>
+                              <hi>quy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ra</cell>
+                           <cell>
+                              <hi>Re</hi>
+                           </cell>
+                           <cell>
+                              <hi>ri</hi>
+                           </cell>
+                           <cell>ro</cell>
+                           <cell>
+                              <hi>ru</hi>
+                           </cell>
+                           <cell>
+                              <hi>ry</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Sa</cell>
+                           <cell>
+                              <hi>Se</hi>
+                           </cell>
+                           <cell>
+                              <hi>ſi</hi>
+                           </cell>
+                           <cell>ſo</cell>
+                           <cell>
+                              <hi>ſu</hi>
+                           </cell>
+                           <cell>
+                              <hi>ſy</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Ta</cell>
+                           <cell>
+                              <hi>Te</hi>
+                           </cell>
+                           <cell>
+                              <hi>ti</hi>
+                           </cell>
+                           <cell>to</cell>
+                           <cell>
+                              <hi>tu</hi>
+                           </cell>
+                           <cell>
+                              <hi>ty</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Wa</cell>
+                           <cell>
+                              <hi>We</hi>
+                           </cell>
+                           <cell>
+                              <hi>wi</hi>
+                           </cell>
+                           <cell>wo</cell>
+                           <cell>
+                              <hi>wu</hi>
+                           </cell>
+                           <cell>
+                              <hi>wy</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <lg>
+                     <pb facs="tcp:171727:5"/>
+                     <l>
+                        <figure>
+                           <figDesc>depiction of book</figDesc>
+                        </figure>
+                     </l>
+                     <l>I will love to look,</l>
+                     <l>And read my Book.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <figure>
+                           <figDesc>dog</figDesc>
+                        </figure>
+                     </l>
+                     <l>The Dog will fight,</l>
+                     <l>And the Dog will bite.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <figure>
+                           <figDesc>cat</figDesc>
+                        </figure>
+                     </l>
+                     <l>The Cat will</l>
+                     <l>A Mouſe kill.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <figure>
+                           <figDesc>sun</figDesc>
+                        </figure>
+                     </l>
+                     <l>The Sun will ſhine,</l>
+                     <l>And make the Fields fine.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <figure>
+                           <figDesc>moon</figDesc>
+                        </figure>
+                     </l>
+                     <l>The Moon will give light,</l>
+                     <l>In the darkeſt night.</l>
+                  </lg>
+               </div>
+               <div type="resolution">
+                  <pb facs="tcp:171727:6"/>
+                  <head>The Childs reſolution.</head>
+                  <lg>
+                     <l>I will to my power be a good child.</l>
+                     <l>I will love to look upon my book.</l>
+                     <l>I ſhall read well if I learn to ſpel.</l>
+                     <l>I ſhall read well, if I read much.</l>
+                     <l>The way to read well is to read often.</l>
+                     <l>I will love and obey my Parents.</l>
+                     <l>I will love my Teacher.</l>
+                     <l>I will live to go to School.</l>
+                     <l>I will not dirty my clothes.</l>
+                     <l>I will not tell a lie.</l>
+                     <l>I will not ſwear.</l>
+                     <l>I will not curſe.</l>
+                     <l>I will behave my ſelf mannerly towards my Betters.</l>
+                  </lg>
+                  <p>
+                     <pb facs="tcp:171727:6"/>
+                     <figure>
+                        <figDesc>depiction of book</figDesc>
+                     </figure> Good Books teach wiſdom, and he that readeth much increa<g ref="char:EOLhyphen"/>ſeth in knowledge.</p>
+                  <p>
+                     <figure>
+                        <figDesc>dog</figDesc>
+                     </figure> A living Dog is better than a dead Lion; and a dogged diſpoſition is not good.</p>
+                  <p>
+                     <figure>
+                        <figDesc>cat</figDesc>
+                     </figure> Play not with a Cat too much, for the Cats breath will do thee much harm.</p>
+                  <p>
+                     <figure>
+                        <figDesc>sun</figDesc>
+                     </figure> Let not the Sun go down upon thy wrath.</p>
+                  <p>
+                     <figure>
+                        <figDesc>moon</figDesc>
+                     </figure> God appointeth the Moon for ſeaſon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and the Sun knowet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> going down.</p>
+               </div>
+               <div type="illustration">
+                  <p>
+                     <pb facs="tcp:171727:7"/>
+                     <figure>
+                        <figDesc>seated teacher facing standing pupil, in front of children seated (on risers?) in four rows of six, each holding a letter of the alphabet</figDesc>
+                        <head>THE SCHOOL.</head>
+                     </figure>
+                  </p>
+               </div>
+               <div type="names">
+                  <pb facs="tcp:171727:7"/>
+                  <head>An uſeful Catalogue of Names.</head>
+                  <list>
+                     <item>1 A for A-dam, or Anne</item>
+                     <item>2 B for Ben-ja-min, or Be-a-trice</item>
+                     <item>3 C for Charls, or Chri-ſti-a-na</item>
+                     <item>4 D for Da-vid, or Di-nah</item>
+                     <item>5 E for Ed-ward, or E-li-za-beth</item>
+                     <item>6 F for Fran-cis, or Fran-ces</item>
+                     <item>7 G for George or Grace</item>
+                     <item>8 H for Hen-ry, or Han-nah</item>
+                     <item>9 I for I-ſa-ac, or I-ſa-bel</item>
+                     <item>10 K for Ke-nelm, or Ka-the-rine</item>
+                     <item>11 L for Luke, or Ly-di-a</item>
+                     <item>12 M for Matthew, or Ma-ry</item>
+                     <item>14 O for O-li-ver, or O-lym-pi-a</item>
+                     <item>15 P for Pe-ter, or Pa-ti-ence</item>
+                     <item>16 R for Robert, or Roſe</item>
+                     <item>
+                        <pb facs="tcp:171727:8"/>
+17 S for So-lo-mon, or Sa-rah.</item>
+                     <item>18 T for Tho-mas, or Tho-ma-ſin</item>
+                     <item>19 W for Wil-li-am, or Win-ni<g ref="char:EOLhyphen"/>tride.</item>
+                  </list>
+                  <p>
+                     <figure>
+                        <figDesc>adult in cap and gown pointing finger toward child in knee britches</figDesc>
+                        <lg>
+                           <l>
+                              <hi>The Maſters Correction,</hi>
+                           </l>
+                           <l>
+                              <hi>Is the Childs Protection.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="childs_catechism">
+            <pb facs="tcp:171727:8"/>
+            <head>THE Childs Catechiſm.</head>
+            <p>Queſtion. <hi>CHilde, who made you?</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> God.</p>
+            <p>Qu. <hi>What is God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> God is a ſpirit, moſt ſtrong, wiſe, holy, and good.</p>
+            <p>Qu. <hi>How did God make man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> God made man of duſt and earth, and breathed life into him, and he became a living ſoul.</p>
+            <p>Qu. <hi>Did man ſin againſt God at the beginning, as men do now?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No truly: God made man good, but he ſinned, and did fall.</p>
+            <p>
+               <pb facs="tcp:171727:9"/>
+Qu. <hi>Who did redeem fallen man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Jeſus Chriſt the Son of God.</p>
+            <p>Qu. <hi>How did Chriſt Jeſus redeem Man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> He died upon the Croſs.</p>
+            <p>Qu. <hi>If Chriſt died for us, what muſt we do for Chriſt?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> We muſt do his will, and live to his glory and praiſe.</p>
+            <p>Qu. <hi>What is Chriſt</hi>'s <hi>will?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> That we muſt not ſin.</p>
+            <p>Qu. <hi>What is ſin?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It is a ſin to take Gods Name in vain: it is a ſin to ſwear, to curſe, or tell a lie: it is a ſin to be undutiful to Parents, or to diſobey their lawful commands:
+<pb facs="tcp:171727:9"/>
+it is a ſin not to keep Gods Com<g ref="char:EOLhyphen"/>mands, or the Ten Command<g ref="char:EOLhyphen"/>ments. If I learn apace, I ſhall come to them.</p>
+            <p>Qu. <hi>Can you live in this world, and not ſin?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No indeed.</p>
+            <p>Qu. <hi>Who was the firſt man li<g ref="char:EOLhyphen"/>ving?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Adam.</p>
+            <p>Qu. <hi>Who was the moſt faithful man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Abraham.</p>
+            <p>Qu. <hi>Who was the meekeſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Moſes.</p>
+            <p>Qu. <hi>Who was the firſt High-Prieſt.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Melchiſedeck.</p>
+            <p>
+               <pb facs="tcp:171727:10"/>
+Qu. <hi>Who was the beſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> David.</p>
+            <p>Qu. <hi>Who was the wiſeſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Solomon.</p>
+            <p>Qu. <hi>Who was the ſtrongeſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Sampſon.</p>
+            <p>Qu. <hi>Who was the moſt patient man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Job.</p>
+            <p>Qu. <hi>Who was the comlieſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Abſalom.</p>
+            <p>Qu. <hi>Who was the moſt loving a<g ref="char:EOLhyphen"/>mong men?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Jonathan.</p>
+            <p>Qu. <hi>Who was the oldeſt man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Methuſalem.</p>
+            <p>Qu. <hi>Who was the worſt of men?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Judas.</p>
+            <p>
+               <pb facs="tcp:171727:10"/>
+Qu. <hi>Who are the beſt Children?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Thoſe that are moſt duti<g ref="char:EOLhyphen"/>ful to their Parents, and delight to read the word of God.</p>
+            <p>Qu. <hi>What is the word of God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The word of God is the Scriptures of the Old and New Teſtament, written for our in<g ref="char:EOLhyphen"/>ſtruction, where the whole mind of God is revealed unto man<g ref="char:EOLhyphen"/>kind, as a rule for all men to walk by.</p>
+            <p>Qu. <hi>Canſt thou ſay the Lords Payer, which our Saviour Chriſt taught his Diſciples?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> yes.</p>
+            <p>Maſter. <hi>Let me hear it.</hi>
+            </p>
+            <figure>
+               <figDesc>person kneeling in prayer; rays extending downward from clouds</figDesc>
+               <head>The Prayer of the faithful avail<g ref="char:EOLhyphen"/>eth much.</head>
+            </figure>
+            <div type="prayer">
+               <pb facs="tcp:171727:11"/>
+               <head>The Lords Prayer, which our Sa<g ref="char:EOLhyphen"/>viour taught his Diſciples; good for children to learn within book, and without book.</head>
+               <q>O<g ref="char:V">Ʋ</g>r Father which art in Heaven, Hallowed be thy Name. Thy Kingdom come. Thy will be done in earth, as it is in Heaven. Give us this day our dayly bread. And forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us. And lead us not into temptati<g ref="char:EOLhyphen"/>on, but deliver us from evil. For thine is the Kingdom, the power and the glory, for ever and ever. <hi>Amen.</hi>
+               </q>
+               <p>
+                  <pb facs="tcp:171727:12"/>
+                  <hi rend="roman">Child, learn this prayer by heart, that you may ſay it without book; and every morning, before you go to School, kneel and pray to God to bleſs thee, and that God would give thee thy daily bread, and teach thee wiſdom.</hi>
+               </p>
+            </div>
+            <div type="creed">
+               <head>The Apoſtles Creed, or Articles of our Faith, which every man, woman, and Child ought to believe, and ſay of a truth.</head>
+               <q>I Believe in God the Father Almighty, maker of Heaven and Earth: And in Ieſus Chriſt his only Son, our Lord: which was conceived by the Holy Ghoſt, born of the <hi>Virgin Mary,</hi>
+                  <pb facs="tcp:171727:12"/>
+ſuffered under Pontius Pilate, was crucified, dead, and buried. He deſcended into hell: The third day be roſe again from the dead: He aſcended into Heaven, and ſitteth on the right hand of God the Father Almighty: From thence he ſhall come to judge the quick and the dead. I believe in the Holy Ghoſt: The holy Catholick Church: The communion of Saints: The forgiveneſs of ſins: The reſur<g ref="char:EOLhyphen"/>rection of the body, and the life everlaſting. <hi>Amen.</hi>
+               </q>
+               <p>
+                  <hi rend="roman">Child, learn theſe Articles of your Faith, and the Lord increaſe thy faith in his Son Chriſt Jeſus.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:171727:13"/>
+                  <figure>
+                     <figDesc>Moses holding a staff and the tablets of the ten commandments</figDesc>
+                     <head>
+                        <hi>The Two Tables.</hi> 
+                     </head>
+                     <q>The Law was given by Moſes, but Grace and Truth came by Jeſus Chriſt.</q>
+                     <p>
+                        <list>
+                           <item>I</item>
+                           <item>II</item>
+                           <item>III</item>
+                           <item>IIII</item>
+                           <item>V</item>
+                           <item>VI</item>
+                           <item>VII</item>
+                           <item>VIII</item>
+                           <item>IX</item>
+                           <item>X</item>
+                        </list>
+                     </p>
+                  </figure>
+               </p>
+            </div>
+            <div type="decalogue">
+               <pb facs="tcp:171727:13"/>
+               <head>The Ten Commandments, which God hath commanded every man, woman, and child, to keep. <hi>Exod.</hi> 20.</head>
+               <q>
+                  <p>
+                     <hi rend="roman">GOD ſpake theſe words, and ſaid, I am the Lord thy God which hath brought thee out of the land of <hi rend="italic">Egypt,</hi> out of the houſe of bondage.</hi>
+                  </p>
+                  <p n="1">1. THou ſhalt have no other Gods but me.</p>
+                  <p n="2">2. Thou ſhalt not make to thy ſelf any graven Image, nor the likeneſs of any thing that is in heaven above or in the earth be<g ref="char:EOLhyphen"/>neath, or in the water under the earth; thou ſhalt not bow down to them, nor worſhip them: for I the Lord thy God am a jealous
+<pb facs="tcp:171727:14"/>
+God, and viſit the ſins of the fa<g ref="char:EOLhyphen"/>thers upon the children, unto the third and fourth generation of them that hate me, and ſhew mercy unto thouſands of them that love me, and keep my com<g ref="char:EOLhyphen"/>mandments.</p>
+                  <p n="3">3. Thou ſhalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltleſs that taketh his name in vain.</p>
+                  <p n="4">4. Remember that thou keep holy the Sabbath day, Six days ſhalt thou labour and do all that thou haſt to do, but the ſeventh day is the Sabbath of the Lord thy God: In it thou ſhalt do no
+<pb facs="tcp:171727:14"/>
+manner of work, thou, and thy ſon, and thy daughter, thy man<g ref="char:EOLhyphen"/>ſervant, and thy maid-ſervant, thy cattel, and the ſtranger, that is within thy gates: For in ſix days the Lord made Heaven and Earth, the Sea, and all that in them is, and reſted the ſeventh day, wherefore the Lord bleſſed the ſeventh day, and hallowed it.</p>
+                  <p n="5">5. Honour thy Father and thy Mother, that thy days may be long in the land which the Lord thy God giveth thee.</p>
+                  <p n="6">6. Thou ſhalt do no murther.</p>
+                  <p n="7">7. Thou ſhalt not commit a<g ref="char:EOLhyphen"/>dultery.</p>
+                  <p n="8">8. Thou ſhalt not ſteal.</p>
+                  <p n="9">
+                     <pb facs="tcp:171727:15"/>
+9 Thou ſhalt not bear falſe witneſs againſt thy Neighbour.</p>
+                  <p n="10">10. Thou ſhalt not covet thy Neighbours houſe, thou ſhalt not covet thy Neighbours wife, nor his ſervant, nor his maid, nor his Ox, nor his Aſs, nor any thing that is his.</p>
+               </q>
+            </div>
+            <div type="prayers">
+               <div type="grace">
+                  <head>To give thanks before Meat.</head>
+                  <p>GOD bleſs the KING, and guide his ways,</p>
+                  <p>And ſend us peace in theſe our days.</p>
+               </div>
+               <div type="grace">
+                  <head>To give thanks after Meat.</head>
+                  <p>GOD be praiſed, the Church preſerved, the KING de<g ref="char:EOLhyphen"/>fended, Peace maintained.</p>
+               </div>
+               <div type="grace">
+                  <pb facs="tcp:171727:15"/>
+                  <head>To give thanks before meat.</head>
+                  <p>GLorious God, I pray thee to bleſs all thy Mercies unto me, and make me a thankful Child. Teach me, O Lord, to live worthy of them for Chriſt his ſake.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="grace">
+                  <head>To give thanks after meat:</head>
+                  <p>BLeſſed and praiſed be thy ho<g ref="char:EOLhyphen"/>ly Name, O Lord God, for all thy mercies, for feeding my body; O Lord, feed my ſoul with the Bread of life, for Jeſus Chriſt his ſake.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="grace">
+                  <pb facs="tcp:171727:16"/>
+                  <head>Thanksgiving before Meat.</head>
+                  <p>OUR gracious God and mer<g ref="char:EOLhyphen"/>ciful Father, in and by our Lord and Saviour Jeſus Chriſt, we have cauſe to praiſe thy great Name for all thy fatherly Mer<g ref="char:EOLhyphen"/>cies, O Lord, ſanctifie them unto us, that we may grow in wiſdom, holineſs, and true thankfulneſs, for the Lord Jeſus Chriſt his ſake.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="grace">
+                  <head>Thansgiving after Meat.</head>
+                  <p>HOly God, we have every day experience of thy in nume<g ref="char:EOLhyphen"/>rable mercies: In thee we live,
+<pb facs="tcp:171727:16"/>
+move and have our being, we praiſe thy Name for feeding our bodies at this time. We bleſs thy Name for our Creation, Redem<g ref="char:EOLhyphen"/>ption, and Sanctification: Prepare us O Lord, for Glorification, that we may praiſe thy Name for ever and ever.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="prayer">
+                  <head>A Prayer for Sunday morning.</head>
+                  <p>MOſt holy God and merciful Father, I deſire to praiſe thy holy name for all thy mercies beſtowed upon me: for Chriſt his ſake, continue thy love and mercy towards me. Teach me, O Lord, to ſerve thee this day with fear: Help me, O God, to worſhip and
+<pb facs="tcp:171727:17"/>
+ſerve thee in the power of thy ho<g ref="char:EOLhyphen"/>ly ſpirit; let this day be a day of comfort to my poor empty ſoul. Teach me, O Lord Jeſus, to hear and to profit; ſend thou the Com<g ref="char:EOLhyphen"/>forter thy holy Spirit to teach and guide me in the way of truth. O my God, ſanctifie my ſoul, and body, my mind, thoughts, deeds, and words, that I may be free to keep holy thy Sabbath. Theſe things O Lord, and what elſe is needful for me, I beg at thy Fa<g ref="char:EOLhyphen"/>therly hands, in the Name and Mediation of thy only Son, and my alone Saviour, Jeſus Chriſt our Lord.</p>
+               </div>
+               <div type="prayer">
+                  <pb facs="tcp:171727:17"/>
+                  <head>A prayer to be uſed before you go to bed.</head>
+                  <p>HOly God &amp; merciful Father, in and through our Lord and Saviour Jeſus Chriſt, for his ſake pardon all my idle thoughts, words and deeds, which I have committed againſt thee: teach me to weep for my ſins, teach me to repent for my ſins: cauſe me to be aſhamed for my ſins, let not my ſins, O Lord, be any hindrance of thy mercies: bleſs me this night, O Lord, keep me from all evil, and raiſe me in the morning following, and help me to walk before thee in all holineſs, for Jeſus Chriſt his ſake.</p>
+               </div>
+               <div type="prayer">
+                  <pb facs="tcp:171727:18"/>
+                  <head>A Prayer to be ſaid in the Morning, or at any time.</head>
+                  <p>O Lord God of Heaven and Earth, by thee alone we are preſerved: O good God, we have nothing but we have it from thee. O Lord bleſs me this day, O Lord keep me that I do not ſin againſt thee: O my God, keep my mouth that I may not offend with my lips. O Lord, keep my feet, that I do not run in the way of the wicked. O my Creator, create in me a delight to do thy will. O my God and Maker, make me ſuch a creature as thou haſt com<g ref="char:EOLhyphen"/>manded me to be. O my God
+<pb facs="tcp:171727:18"/>
+and Saviour, ſave me from my ſins. O Lord, pardon the ſins of this day. O Lord, pardon my unknown ſins. O glorious God, fill me with wiſdom. O my Saviour, fill me with thy good Spirit. O thou that art the Saviour of the world, ſend the Comforter thy Holy Spirit, which ſhall teach and guide me in the ways of Truth and Holineſs: O thou that art the King of Hea<g ref="char:EOLhyphen"/>ven, make me heavenly-minded. O Lord, teach me to hate lying<g ref="char:EOLhyphen"/>vanities. O Lord, teach me to fear to fin againſt thy Holy Name. Teach me, O Lord, to love thee, to obey thee, to ſerve thee. O Lord, help me to delight to
+<pb facs="tcp:171727:19"/>
+keep thy commandments. O Lord do more abundantly for me than I am able to ask or think, for the Lord Jeſus Chriſt his ſake; to whom with thy holy Majeſty, and ever bleſſed Spirit, be given all honour, glory, and power, both now and for ever.</p>
+                  <closer>Amen.</closer>
+               </div>
+               <div type="Psalm">
+                  <head>
+                     <hi>Pſal.</hi> 67.</head>
+                  <p>GOd be merciful unto us and bleſs us, and ſhew us the light of thy countenance, and be merciful unto us.</p>
+                  <p>That thy way may be known upon the earth: thy ſaving health among all nations.</p>
+                  <p>Let the people praiſe thee, O
+<pb facs="tcp:171727:19"/>
+God; yea, let all the people praiſe thee.</p>
+                  <p>O let the Nations rejoyce and be glad: for thou ſhalt judge the folk righteouſly, and govern the Nations upon the earth.</p>
+                  <p>Let the people praiſe thee, O God, let all the people praiſe thee.</p>
+                  <p>Then ſhall the Earth bring forth her increaſe, and God even our own God, ſhall give us his bleſſing.</p>
+                  <p>God ſhall bleſs us, and all the ends of the world ſhall fear him.</p>
+               </div>
+            </div>
+            <div type="section">
+               <div type="illustration">
+                  <pb facs="tcp:171727:20"/>
+                  <p>
+                     <figure>
+                        <figDesc>three figures walking: one man wearing hat, followed by another holding hat, followed by short woman or girl</figDesc>
+                        <lg>
+                           <l>
+                              <hi>Courteous behaviour is the bodys grace,</hi>
+                           </l>
+                           <l>
+                              <hi>And ſweet Expreſſions ſhew a grace<g ref="char:EOLhyphen"/>ful mind.</hi>
+                           </l>
+                           <l>
+                              <hi>Learn then betimes to run in Ver<g ref="char:EOLhyphen"/>tues Race,</hi>
+                           </l>
+                           <l>
+                              <hi>Strive to be formoſt, and leave all behind.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:20"/>
+                  <head>Childrens Behaviour when they riſe, and at School.</head>
+                  <p>1. FIrſt, Child, I adviſe thee, not to ſleep over much; for it will dull thy wit, and hurt thy brain.</p>
+                  <p>2. Secondly, Let thy firſt work in the morning be, to praiſe the Lord for his protecting thee the night paſt, and crave his heavenly Bleſſing upon thee for the day following.</p>
+                  <p>3. Thirdly, Put on thy cloths handſomely, and waſh thy face and hands, comb thy head, and bruſh thy cloths.</p>
+                  <p>4. Fourthly, be dutiful, and ſhew reverence to thy Parents in
+<pb facs="tcp:171727:21"/>
+bowing the body towards them, &amp; craving their prayers for thee.</p>
+                  <p>5. Fifthly, See that thy cloaths be not torn; if they are, tell the ſervans, or thy parents of it.</p>
+                  <p>6. Sixthly, See that your ſhoes and ſtockings be clean; either make them clean your ſelf, or cauſe ſome other to do it for you.</p>
+                  <p>7. Seventhly, Have a care that you blow not your Noſe unman<g ref="char:EOLhyphen"/>nerly, but keep a Pocket-hand<g ref="char:EOLhyphen"/>cherchief for that purpoſe.</p>
+                  <p>8. Eighthly, Be careful to keep your hands always clean, and your nails cut ſhort, that ſo you may not gather dirt in them.</p>
+                  <p>9. Ninthly, when you come
+<pb facs="tcp:171727:21"/>
+into the School, put off your Hat, and bow your body to your Ma<g ref="char:EOLhyphen"/>ſter or Miſtriſs; go then to your place, and ſit mannerly: be always looking upon, and learning your Book.</p>
+                  <p>10. Tenthly, I would have you to give heed, and carefully obſerve theſe Leſſons, and I hope what is wanting, your Maſter or Miſtreſs will ſupply it, and teach thee, that thou muſt not fight nor quarrel, nor kick nor ſpit upon each o<g ref="char:EOLhyphen"/>ther, nor any other unſeemly acti<g ref="char:EOLhyphen"/>on, too often uſed with Chil<g ref="char:EOLhyphen"/>dren, both in the Schools, and elſewhere.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:22"/>
+                  <head>Childrens behaviour walking in the ſtreets.</head>
+                  <p>11. Child, when you walk in the ſtreet, ſhew reverence to thoſe you meet, and put off your Hat, and bow your body, ſaying ſolidly and mannerly, <hi>A good morning to you:</hi> or, <hi>A good evening to you, God be with you, The Lord keep you,</hi> or ſuch like civil greeting.</p>
+                  <p>12. When you are going in the ſtreet, do not cry, nor bawl, nor ſing, nor kick at any thing, nor give evil words to any.</p>
+                  <p>13. I would have you take no<g ref="char:EOLhyphen"/>tice of men, and act as wiſely as
+<pb facs="tcp:171727:22"/>
+you can, as if your father and Mo<g ref="char:EOLhyphen"/>ther did ſee you: or, as if all mens eyes were upon you: If you do ſo, every body will ſpeak well of you, and ſay, There is a pretty child; that child is a comfort to his Pa<g ref="char:EOLhyphen"/>rents, he doth deſerve to be be<g ref="char:EOLhyphen"/>loved.</p>
+               </div>
+               <div type="subsection">
+                  <head>Childrens behaviour at Table.</head>
+                  <p>14. Child, when thou art going to the Table, let thy Betters ſit down before thou doſt ſeat thy ſelf.</p>
+                  <p>15. If thou doſt give thanks or any other; let thy countenance be very grave and graceful; ſo that every one be covered before
+<pb facs="tcp:171727:23"/>
+thou putteſt on thy Hat, and then bow thy body.</p>
+                  <p>16. Let every one be ſerved be<g ref="char:EOLhyphen"/>fore thee, and then eat not greedi<g ref="char:EOLhyphen"/>ly, or unmannerly.</p>
+                  <p>17. Let not thy tongue run be<g ref="char:EOLhyphen"/>fore thy wit, but be ſilent; hear diligently what others ſay, and learn wiſdom.</p>
+                  <p>18. See that you ſpill no Pot<g ref="char:EOLhyphen"/>tage upon the Table: Cut your Bread, and keep the bones of your Meat upon the corner of your Trencher.</p>
+                  <p>19. I would have you not to blow your Noſe, if poſſible you can avoid it, nor ſpit much, nor play at the Table by no means,
+<pb facs="tcp:171727:23"/>
+and when Grace is ſaid, riſe, and take your Trencher and ſtool a<g ref="char:EOLhyphen"/>way, and bow your body to the Company; and what ever elſe is needful for you to learn, that is here wanting, I hope your Pa<g ref="char:EOLhyphen"/>rents will inſtruct you.</p>
+               </div>
+               <div type="subsection">
+                  <head>Childrens behaviour at Church.</head>
+                  <p>20. Child, when thou comeſt into the Church, think with thy ſelf that thou comeſt into the ſpecial preſence of God, and de<g ref="char:EOLhyphen"/>ſire his heavenly aſſiſtance to en<g ref="char:EOLhyphen"/>lighten thy underſtanding, and make thee willing to be guided by his word.</p>
+                  <p>21. When thou art in the
+<pb facs="tcp:171727:24"/>
+Church, take heed that thou doſt not offend with thy mouth: take a convenient place to ſit where you may hear the Miniſter, and be attentive to carry away with you as much as you can of the Sermon.</p>
+                  <p>22. See that you do not play in the Church, or talk, or cry, or laugh, or walk about in the time of the Sermon.</p>
+                  <p>Theſe Leſſons I have collected for thy inſtructions; praying that God will give thee grace to ob<g ref="char:EOLhyphen"/>ſerve them, and that he will teach thee in thoſe things that belong to his glory, and thy ſouls com<g ref="char:EOLhyphen"/>fort.</p>
+               </div>
+            </div>
+            <div type="section">
+               <div type="subsection">
+                  <pb facs="tcp:171727:24"/>
+                  <head>A ſhort and brief way to find ſeve<g ref="char:EOLhyphen"/>ral places of Scripture.</head>
+                  <p>THe Creation of the world, and all things therein, <hi>Geneſis</hi> 1.</p>
+                  <p>The Lord drowned the world with a great Flood, only <hi>Noah</hi> and his family ſaved, and the creatures with him in the Ark, chap 7, 8.</p>
+                  <p>The Ten Commandements, <hi>Exodus</hi> 30.</p>
+                  <p>The ſin of Ignorance, <hi>Levit.</hi> 5.</p>
+                  <p>
+                     <hi>Aaron</hi> dieth, <hi>Numbers</hi> 20.</p>
+                  <p>A ſtubborn ſon is to be ſtoned to death, <hi>Deut.</hi> 21.</p>
+                  <p>
+                     <hi>Moſes</hi> his age and death, <hi>Deut.</hi> 34.</p>
+                  <p>
+                     <hi>Samuel</hi> annointeth <hi>David,</hi> 1 <hi>Sam.</hi> 16.</p>
+                  <p>
+                     <pb facs="tcp:171727:25"/>
+                     <hi>Solomons</hi> Petition to be wiſe, 1 <hi>Kings</hi> 3.</p>
+                  <p>
+                     <hi>David</hi> exhorteth to fear God, 1 <hi>Chron.</hi> 28.</p>
+                  <p>Satans malice to <hi>Job, Job</hi> 2.</p>
+                  <p>The Kingdom, Prieſthood, Conqueſt, and paſſion of Chriſt, <hi>Pſalm</hi> 110.</p>
+                  <p>Chriſt the Saviour of the world is promiſed, <hi>Iſaiah</hi> 7. 14.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>St.</hi> Matthew's <hi>Goſpel.</hi>
+                  </head>
+                  <p>Chriſt is born of the Virgin <hi>Mary,</hi> Chap. 1.</p>
+                  <p>Chriſt is tempted of the devil, Chap. 3.</p>
+                  <p>Chriſt preacheth a Sermon in the mount, Chap. 5.</p>
+                  <p>
+                     <pb facs="tcp:171727:25"/>
+The winds and ſea obey Chriſt, Chap. 8.</p>
+                  <p>Children brought to Chriſt to bleſs, and to lay his hands upon them, Chap. 19.</p>
+                  <p>
+                     <hi>Judas</hi> betrayeth Chriſt, Chap. 27.</p>
+                  <p>Chriſts death and burial, Chap. 27.</p>
+                  <p>His Reſurrection, Chap. 28.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>The Goſpel according to St.</hi> Mark.</head>
+                  <p>The Office of <hi>John Baptiſt:</hi> Je<g ref="char:EOLhyphen"/>ſus Chriſt is baptized, Chap. 1.</p>
+                  <p>Chriſt feedeth five thouſand with five loaves and two fiſhes, and walketh upon the Sea, Chap<g ref="char:EOLhyphen"/>ter 6.</p>
+                  <p>
+                     <pb facs="tcp:171727:26"/>
+Chriſt falſely accuſed, mocked, and crucified, chap. 15.</p>
+                  <p>An Angel declareth the Reſur<g ref="char:EOLhyphen"/>rection of Chriſt, chap. 16.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>The Goſpel according to St.</hi> Luke.</head>
+                  <p>The Nativity of Jeſus Chriſt: many ſing praiſes to God for it, chap. 2.</p>
+                  <p>Chriſt faſteth forty days, chap<g ref="char:EOLhyphen"/>ter 4.</p>
+                  <p>Chriſt calleth and chooſeth his twelve Diſciples, chap. 6.</p>
+                  <p>He teacheth them to pray, chap. 11.</p>
+                  <p>The Lords Supper inſtituted; and he confeſſeth himſelf to be the Son of God, chap. 22.</p>
+                  <p>
+                     <pb facs="tcp:171727:26"/>
+Chriſt condemned, his death, and burial, Chap. 23.</p>
+                  <p>Chriſts Reſurrection is decla<g ref="char:EOLhyphen"/>red, and he appeareth to his two Diſciples, Chap. 24.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>The Goſpel according to St.</hi> John.</head>
+                  <p>The Divinity, Humanity, and Office of Jeſus Chriſt, Chap. 1.</p>
+                  <p>Chriſt turned water into wine, Chap. 2.</p>
+                  <p>
+                     <hi>Lazarus</hi> his ſickneſs and death, whom Chriſt raiſed being four dayes buried, chap. 11.</p>
+                  <p>Chriſt waſheth his Diſciples feet, chap. 13.</p>
+                  <p>Chriſt is betrayed by <hi>Judas,</hi> de<g ref="char:EOLhyphen"/>nied by <hi>Peter,</hi> chap. 18.</p>
+                  <p>
+                     <pb facs="tcp:171727:27"/>
+Chriſts death and burial, Chap<g ref="char:EOLhyphen"/>ter 19.</p>
+                  <p>Chriſts Reſurrection and Ap<g ref="char:EOLhyphen"/>pearing to <hi>Mary Magdalen,</hi> and to his Diſciples, Chap. 20.</p>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>The Acts of the Apoſtles writ<g ref="char:EOLhyphen"/>ten by St.</hi> Luke.</head>
+                  <p>Chriſt prepareth his Apoſtles to the beholding of his Aſcenſi<g ref="char:EOLhyphen"/>on, who ſaw Jeſus Chriſt the Son of God, the Saviour of the world, aſcend up into Heaven, and now intercedeth to God his Father for poor ſinful ſouls, who ought to turn from their evil ways, &amp; wait for his ſecond coming to Judg<g ref="char:EOLhyphen"/>ment, according to the Scripture.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:27"/>
+                  <head>Several places of Scripture neceſ<g ref="char:EOLhyphen"/>ſary to be known and practiſed by children.</head>
+                  <p>CHildren, obey your Parents in the Lord, for this is right, <hi>Epheſ.</hi> 6. 1.</p>
+                  <p>Come ye children, hearken un<g ref="char:EOLhyphen"/>to me, and I will teach you the fear of the Lord, <hi>Pſal.</hi> 34. 12.</p>
+                  <p>Children obey your Parents in all things, for this is well-pleaſing to the Lord, <hi>Col.</hi> 3. 20.</p>
+                  <p>Train up a child in the way he ſhould go, and when he is old he will not depart from it, <hi>Prov.</hi> 22. 6.</p>
+                  <p>Hearken unto thy father that
+<pb facs="tcp:171727:28"/>
+begat thee, and deſpiſe not thy mother when ſhe is old, <hi>Proverbs</hi> 23. 22.</p>
+                  <p>When I was a Child, I ſpake as a child, I underſtood as a chlid, I thought as a child; but when I became a man, I put a way childiſh things, 1 <hi>Cor.</hi> 13. 11.</p>
+                  <p>Brethren, be not children in underſtanding, howbeit in malice be ye children, but in underſtand<g ref="char:EOLhyphen"/>ing be men, 1 <hi>Cor.</hi> 14. 20.</p>
+                  <p>That we henceforth be no more children, toſſed to and fro, and carried about with every wind of Doctrine, by the ſleights of men, and cunning craftineſs, whereby they lie in wait to de<g ref="char:EOLhyphen"/>ceive,
+<pb facs="tcp:171727:28"/>
+                     <hi>Epheſians</hi> 4. 14.</p>
+                  <p>Honour thy father and mother, which is the firſt Commandment with promiſe, <hi>Epheſ.</hi> 6. 1.</p>
+                  <p>For unto us a Child is born, unto us a Son is given, and the Government ſhall be upon his ſhoulders, and his Name ſhall be called wonderful, Counſellor, the mighty God, the everlaſting Father, the Prince of Peace, <hi>Eſay</hi> 9. 6.</p>
+                  <p>In this the children of God are manifeſt, and the children of the devil, whoſoever doth not righ<g ref="char:EOLhyphen"/>teouſneſs is not of God, neither he that loveth not his brother, 1 <hi>John</hi> 3. 10.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:29"/>
+                  <head>More Scriptures neceſſary for Children to read.</head>
+                  <list>
+                     <item>
+                        <hi>Pſalm.</hi> 131.</item>
+                     <item>
+                        <hi>Proverbs</hi> 22. 11. and 23. 24.</item>
+                     <item>
+                        <hi>Iſaiah</hi> 3. 5.</item>
+                     <item>
+                        <hi>Deut.</hi> 4. 10.</item>
+                     <item>
+                        <hi>Job</hi> 27. 24.</item>
+                     <item>
+                        <hi>Matth.</hi> 10. 13.</item>
+                     <item>
+                        <hi>Acts</hi> 2. 39.</item>
+                     <item>
+                        <hi>Rom.</hi> 8. 16, 17.</item>
+                     <item>2 <hi>Cor.</hi> 12. 14.</item>
+                     <item>
+                        <hi>Gal.</hi> 3. 26.</item>
+                     <item>
+                        <hi>Col.</hi> 3. 21.</item>
+                     <item>
+                        <hi>Gen.</hi> 1. 1.</item>
+                     <item>
+                        <hi>Gen.</hi> 1. 26.</item>
+                     <item>
+                        <hi>Gen.</hi> 3. 6.</item>
+                     <item>
+                        <hi>Matth.</hi> 2. 1.</item>
+                     <item>
+                        <hi>Mark</hi> 15. 2, 17.</item>
+                     <item>
+                        <hi>Luke</hi> 2. 7.</item>
+                     <item>
+                        <hi>Luke</hi> 23. 33.</item>
+                     <item>
+                        <hi>Luke</hi> 24. 6.</item>
+                     <item>
+                        <hi>John</hi> 1. 1.</item>
+                     <item>
+                        <hi>John</hi> 3. 5.</item>
+                     <item>
+                        <hi>John</hi> 3. 16.</item>
+                     <item>
+                        <hi>John</hi> 3. 19.</item>
+                     <item>1 <hi>Peter</hi> 3. 10, 11.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:29"/>
+                  <head>The Names and Order of all the Books of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, good for children to learn.</head>
+                  <list>
+                     <item>GEneſis</item>
+                     <item>Exodus</item>
+                     <item>Leviticus</item>
+                     <item>Numbers</item>
+                     <item>Deuteronomy</item>
+                     <item>Joſhua</item>
+                     <item>Judges</item>
+                     <item>Ruth</item>
+                     <item>1 Samuel</item>
+                     <item>2 Samuel</item>
+                     <item>1 Kings</item>
+                     <item>2 Kings</item>
+                     <item>1 Chronicles</item>
+                     <item>2 Chronicles</item>
+                     <item>Ezrah</item>
+                     <item>Nehemiah</item>
+                     <item>Eſther</item>
+                     <item>Job</item>
+                     <item>Pſalms</item>
+                     <item>Proverbs</item>
+                     <item>Eccleſiaſtes</item>
+                     <item>The ſong of Solomon</item>
+                     <item>Iſaiah</item>
+                     <item>Jeremiah</item>
+                     <item>Lamentations</item>
+                     <item>Ezekiel</item>
+                     <item>Daniel</item>
+                     <item>
+                        <pb facs="tcp:171727:30"/>
+Hoſea</item>
+                     <item>Joel</item>
+                     <item>Amos</item>
+                     <item>Obadiah</item>
+                     <item>Jonah</item>
+                     <item>Micah</item>
+                     <item>Nahum</item>
+                     <item>Habakkuk</item>
+                     <item>Zephaniah</item>
+                     <item>Haggai</item>
+                     <item>Zechariah</item>
+                     <item>Malachi.</item>
+                  </list>
+               </div>
+               <div type="subsection">
+                  <head>The Names of the Books of the New Teſtament.</head>
+                  <list>
+                     <item>MAtthew</item>
+                     <item>Mark</item>
+                     <item>Luke</item>
+                     <item>John</item>
+                     <item>The Acts</item>
+                     <item>Romans</item>
+                     <item>1 Corinthians</item>
+                     <item>2 Corinthians</item>
+                     <item>Galatians</item>
+                     <item>Epheſians</item>
+                     <item>Philippians</item>
+                     <item>Coloſſians</item>
+                     <item>1 Theſſalonians</item>
+                     <item>2 Theſſalonians</item>
+                     <item>1 Timothy</item>
+                     <item>2 Timothy</item>
+                     <item>Titus</item>
+                     <item>Philemon</item>
+                     <item>
+                        <pb facs="tcp:171727:30"/>
+Hebrews</item>
+                     <item>James</item>
+                     <item>1 Peter</item>
+                     <item>2 Peter</item>
+                     <item>1 John</item>
+                     <item>2 John</item>
+                     <item>3 John</item>
+                     <item>Jude</item>
+                     <item>The Revelati<g ref="char:EOLhyphen"/>on.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="section">
+               <div type="subsection">
+                  <head>Figures and Numeral Letters.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>One</cell>
+                           <cell>1</cell>
+                           <cell>I</cell>
+                        </row>
+                        <row>
+                           <cell>Ten</cell>
+                           <cell>10</cell>
+                           <cell>X</cell>
+                        </row>
+                        <row>
+                           <cell>Twenty</cell>
+                           <cell>20</cell>
+                           <cell>XX</cell>
+                        </row>
+                        <row>
+                           <cell>Thirty</cell>
+                           <cell>30</cell>
+                           <cell>XXX</cell>
+                        </row>
+                        <row>
+                           <cell>Forty</cell>
+                           <cell>40</cell>
+                           <cell>XL</cell>
+                        </row>
+                        <row>
+                           <cell>Fifty</cell>
+                           <cell>50</cell>
+                           <cell>L</cell>
+                        </row>
+                        <row>
+                           <cell>Sixty</cell>
+                           <cell>60</cell>
+                           <cell>LX</cell>
+                        </row>
+                        <row>
+                           <cell>Seventy</cell>
+                           <cell>70</cell>
+                           <cell>LXX</cell>
+                        </row>
+                        <row>
+                           <cell>Eighty</cell>
+                           <cell>80</cell>
+                           <cell>LXXX</cell>
+                        </row>
+                        <row>
+                           <cell>Ninty</cell>
+                           <cell>90</cell>
+                           <cell>XC</cell>
+                        </row>
+                        <row>
+                           <cell>Hundred</cell>
+                           <cell>100</cell>
+                           <cell>C</cell>
+                        </row>
+                        <pb facs="tcp:171727:31"/>
+                        <row>
+                           <cell>Two hundred</cell>
+                           <cell>200</cell>
+                           <cell>CC</cell>
+                        </row>
+                        <row>
+                           <cell>Three hundred</cell>
+                           <cell>300</cell>
+                           <cell>CCC</cell>
+                        </row>
+                        <row>
+                           <cell>Four hundred</cell>
+                           <cell>400</cell>
+                           <cell>CCCC</cell>
+                        </row>
+                        <row>
+                           <cell>Five hundred</cell>
+                           <cell>500</cell>
+                           <cell>D</cell>
+                        </row>
+                        <row>
+                           <cell>Thirty five</cell>
+                           <cell>35</cell>
+                           <cell>XXXV</cell>
+                        </row>
+                        <row>
+                           <cell>Forty three</cell>
+                           <cell>43</cell>
+                           <cell>XLIII</cell>
+                        </row>
+                        <row>
+                           <cell>Fifty two</cell>
+                           <cell>52</cell>
+                           <cell>LII</cell>
+                        </row>
+                        <row>
+                           <cell>Sixty one</cell>
+                           <cell>61</cell>
+                           <cell>LXI</cell>
+                        </row>
+                        <row>
+                           <cell>Seventy ſeven</cell>
+                           <cell>77</cell>
+                           <cell>LXXVII</cell>
+                        </row>
+                        <row>
+                           <cell>Eighty nine</cell>
+                           <cell>89</cell>
+                           <cell>LXXXIX</cell>
+                        </row>
+                        <row>
+                           <cell>Ninety eight</cell>
+                           <cell>98</cell>
+                           <cell>XCVIII</cell>
+                        </row>
+                        <row>
+                           <cell>Hundred and three</cell>
+                           <cell>103</cell>
+                           <cell>CIII</cell>
+                        </row>
+                        <row>
+                           <cell>One thouſand</cell>
+                           <cell>1000</cell>
+                           <cell>M</cell>
+                        </row>
+                        <row>
+                           <cell>Five hundred</cell>
+                           <cell>500</cell>
+                           <cell>D</cell>
+                        </row>
+                        <row>
+                           <cell>One hundred</cell>
+                           <cell>100</cell>
+                           <cell>C</cell>
+                        </row>
+                        <row>
+                           <cell>Fifty</cell>
+                           <cell>50</cell>
+                           <cell>L</cell>
+                        </row>
+                        <row>
+                           <cell>Ten</cell>
+                           <cell>10</cell>
+                           <cell>X</cell>
+                        </row>
+                        <row>
+                           <cell>One thouſand, ſix hundred, ſixty one.</cell>
+                           <cell> </cell>
+                           <cell>MDCLXI.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:31"/>
+                  <head>Abbreviations often uſed.</head>
+                  <list>
+                     <item>Qu. for Queſtion.</item>
+                     <item>An. for Anſwer.</item>
+                     <item>Mr. for Maſter.</item>
+                     <item>Mris. for Miſtreſs.</item>
+                     <item>Chap. for Chapter.</item>
+                     <item>v. for verſe.</item>
+                     <item>&amp; for and.</item>
+                     <item>&amp;c. for, and ſo forth.</item>
+                  </list>
+               </div>
+               <div type="punctuation">
+                  <head>Stops to be obſerved in reading.</head>
+                  <list>
+                     <item>A Comma,</item>
+                     <item>A Colon:</item>
+                     <item>A Semicolon;</item>
+                     <item>A Period.</item>
+                     <item>Interrogation?</item>
+                     <item>Admiration!</item>
+                     <item>A Parentheſis ()</item>
+                  </list>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <pb facs="tcp:171727:32"/>
+               <figure>
+                  <figDesc>seated teacher facing standing pupil, in front of children seated (on risers?) in four rows of six, each holding a letter of the alphabet</figDesc>
+                  <head>THE SCHOOL.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:171727:32"/>
+            <head>THE Youths Book.</head>
+            <div type="method_for_spelling">
+               <div type="subsection">
+                  <head>Conſonants ending with a Vowel.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>bla</cell>
+                           <cell>ble</cell>
+                           <cell>bli</cell>
+                           <cell>blo</cell>
+                           <cell>blu</cell>
+                           <cell>bly</cell>
+                        </row>
+                        <row>
+                           <cell>bra</cell>
+                           <cell>che</cell>
+                           <cell>cli</cell>
+                           <cell>cro</cell>
+                           <cell>dru</cell>
+                           <cell>fly</cell>
+                        </row>
+                        <row>
+                           <cell>fra</cell>
+                           <cell>gle</cell>
+                           <cell>gri</cell>
+                           <cell>kno</cell>
+                           <cell>phu</cell>
+                           <cell>phy</cell>
+                        </row>
+                        <row>
+                           <cell>pra</cell>
+                           <cell>pſe</cell>
+                           <cell>ſci</cell>
+                           <cell>ſcho</cell>
+                           <cell>ſcru</cell>
+                           <cell>ſhy</cell>
+                        </row>
+                        <row>
+                           <cell>ſhra</cell>
+                           <cell>ske</cell>
+                           <cell>skri</cell>
+                           <cell>ſlo</cell>
+                           <cell>ſmu</cell>
+                           <cell>ſly</cell>
+                        </row>
+                        <row>
+                           <cell>ſpa</cell>
+                           <cell>ſphe</cell>
+                           <cell>ſpli</cell>
+                           <cell>ſquo</cell>
+                           <cell>ſtu</cell>
+                           <cell>ſtry</cell>
+                        </row>
+                        <row>
+                           <cell>ſwa</cell>
+                           <cell>wre</cell>
+                           <cell>wri</cell>
+                           <cell>wro</cell>
+                           <cell>wru</cell>
+                           <cell>wry</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>Add all the vowels to every of the conſonants, and they will run as the firſt to the laſt.</p>
+                  <p>
+                     <pb facs="tcp:171727:33"/>
+                     <table>
+                        <row>
+                           <cell>able</cell>
+                           <cell>eble</cell>
+                           <cell>ible</cell>
+                           <cell>oble</cell>
+                           <cell>uble</cell>
+                           <cell>yble</cell>
+                        </row>
+                        <row>
+                           <cell>aps</cell>
+                           <cell>ecke</cell>
+                           <cell>icle</cell>
+                           <cell>ocre</cell>
+                           <cell>ucre</cell>
+                           <cell>ycre</cell>
+                        </row>
+                        <row>
+                           <cell>act</cell>
+                           <cell>edde</cell>
+                           <cell>idge</cell>
+                           <cell>orte</cell>
+                           <cell>ufle</cell>
+                           <cell>yft</cell>
+                        </row>
+                        <row>
+                           <cell>afth</cell>
+                           <cell>eight</cell>
+                           <cell>igne</cell>
+                           <cell>ogle</cell>
+                           <cell>ugs</cell>
+                           <cell>ygs</cell>
+                        </row>
+                        <row>
+                           <cell>alch</cell>
+                           <cell>elch</cell>
+                           <cell>idle</cell>
+                           <cell>ofle</cell>
+                           <cell>ulke</cell>
+                           <cell>ylke</cell>
+                        </row>
+                        <row>
+                           <cell>alme</cell>
+                           <cell>elne</cell>
+                           <cell>ilde</cell>
+                           <cell>ols</cell>
+                           <cell>ulch</cell>
+                           <cell>ylch</cell>
+                        </row>
+                        <row>
+                           <cell>alre</cell>
+                           <cell>embe</cell>
+                           <cell>imme</cell>
+                           <cell>onip</cell>
+                           <cell>umph</cell>
+                           <cell>ymph</cell>
+                        </row>
+                        <row>
+                           <cell>amble</cell>
+                           <cell>empſe</cell>
+                           <cell>impti</cell>
+                           <cell>once</cell>
+                           <cell>uncle</cell>
+                        </row>
+                        <row>
+                           <cell>anct</cell>
+                           <cell>end</cell>
+                           <cell>indle</cell>
+                           <cell>ong</cell>
+                           <cell>unge</cell>
+                           <cell>yngel</cell>
+                        </row>
+                        <row>
+                           <cell>angſt</cell>
+                           <cell>ength</cell>
+                           <cell>inke</cell>
+                           <cell>oune</cell>
+                           <cell>uns</cell>
+                           <cell>yns</cell>
+                        </row>
+                        <row>
+                           <cell>ant</cell>
+                           <cell>enth</cell>
+                           <cell>intle</cell>
+                           <cell>ople</cell>
+                           <cell>ups</cell>
+                           <cell>yps</cell>
+                        </row>
+                        <row>
+                           <cell>apt</cell>
+                           <cell>epth</cell>
+                           <cell>irb</cell>
+                           <cell>orble</cell>
+                           <cell>urcre</cell>
+                           <cell>ycre</cell>
+                        </row>
+                        <row>
+                           <cell>art</cell>
+                           <cell>erdle</cell>
+                           <cell>irf</cell>
+                           <cell>orge</cell>
+                           <cell>urgle</cell>
+                           <cell>yrgle</cell>
+                        </row>
+                        <row>
+                           <cell>ark</cell>
+                           <cell>erdle</cell>
+                           <cell>irle</cell>
+                           <cell>orme</cell>
+                           <cell>urne</cell>
+                           <cell>yrgle</cell>
+                        </row>
+                        <row>
+                           <cell>arp</cell>
+                           <cell>erple</cell>
+                           <cell>irre</cell>
+                           <cell>orſe</cell>
+                           <cell>urs</cell>
+                           <cell>yrne</cell>
+                        </row>
+                        <row>
+                           <cell>arſh</cell>
+                           <cell>erſt</cell>
+                           <cell>irt</cell>
+                           <cell>ortle</cell>
+                           <cell>urth</cell>
+                           <cell>yrth</cell>
+                        </row>
+                        <row>
+                           <cell>arne</cell>
+                           <cell>eſh</cell>
+                           <cell>isk</cell>
+                           <cell>oſle</cell>
+                           <cell>uſume</cell>
+                           <cell>yarne</cell>
+                        </row>
+                        <row>
+                           <cell>aſſe</cell>
+                           <cell>eſt</cell>
+                           <cell>iſtle</cell>
+                           <cell>otle</cell>
+                           <cell>uts</cell>
+                           <cell>yzle.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:33"/>
+                  <head>Of Diphthongs.</head>
+                  <p>A Diphthong is two Vowels giving a ſound as, <hi>ai, ei, ou, oi, au, eu, ay, oy, ea, ee, oo,</hi> you meet with them often; as faith, hea<g ref="char:EOLhyphen"/>ven, heir, loud, voice, graunt, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eud, ſay, boy, read, bleed, blood.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of a Syllable.</head>
+                  <p>A Syllable is a perfect ſound, made of ſeveral letters, which are ſpelled together: As <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r example, in <hi>Con-dem-na-ti-on,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ere are five ſyllables: or, <hi>Di-vi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>on,</hi> four ſyllables. A vowel and conſonant make a ſyllable: as, <hi>at, a-ny, i-dol, e-ver,</hi> &amp;c.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:34"/>
+                  <head>Of different Spelling.</head>
+                  <p>IT is a very hard thing to write good Engliſh, or to ſpell well, I have therefore thought good to ſhew the young Learner, how near many words are in letter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and ſound: As for example,</p>
+                  <p>The <hi>winds</hi> did blow, and ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the ſhip of <hi>wines</hi> away.</p>
+                  <p>Give me <hi>advice;</hi> and <hi>adviſe</hi> m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the beſt.</p>
+                  <p>To truſt to a broken <hi>reed;</hi> t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>read</hi> in a Book.</p>
+                  <p>
+                     <hi>Pontius Pilate:</hi> a skilful <hi>Pilot</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> guide a ſhip.</p>
+                  <p>They whetted their <hi>Sythe<g ref="char:punc">▪</g>
+                     </hi>
+                     <pb facs="tcp:171727:34"/>
+with grief they did <hi>ſigh.</hi>
+                  </p>
+                  <p>A man of <hi>low</hi> ſtature: the Ox did <hi>lowe.</hi>
+                  </p>
+                  <p>A man in a <hi>Jirking</hi> was <hi>jerking</hi> his horſe.</p>
+                  <p>He took a <hi>Farm,</hi> a <hi>form</hi> of wholſome words, a <hi>fourm</hi> to ſit upon.</p>
+                  <p>Leave <hi>coughing,</hi> or you ſhall be put in a <hi>Coffin.</hi>
+                  </p>
+                  <p>I did him a good <hi>chare,</hi> to ſet him in a <hi>chair,</hi> and give him good <hi>cheer.</hi>
+                  </p>
+                  <p>A Bowe made of <hi>Yew: you</hi> and I are good Friends.</p>
+                  <p>It is a <hi>vain</hi> thing to let blood in a wrong <hi>vein.</hi>
+                  </p>
+                  <p>It is <hi>too</hi> much for <hi>two</hi> men to
+<pb facs="tcp:171727:35"/>
+to write in one day.</p>
+                  <p>
+                     <hi>Philip</hi> will give a <hi>fillip.</hi>
+                  </p>
+                  <p>Sweet <hi>flowers,</hi> Wheat-<hi>flour,</hi> the <hi>floor</hi> of the houſe: the Beer <hi>flow<g ref="char:EOLhyphen"/>reth</hi> in the cup.</p>
+                  <p>I <hi>gueſt</hi> with you, though you are a welcome <hi>gheſt,</hi> yet I <hi>gueſs'd</hi> right of the matter.</p>
+                  <p>A great <hi>gap:</hi> to <hi>gape</hi> wide.</p>
+                  <p>I did <hi>hide</hi> the Horſe-<hi>hide</hi> with Mr. <hi>Hide.</hi>
+                  </p>
+                  <p>Here is a <hi>Tun</hi> of wine: let us ſing a <hi>Tune.</hi>
+                  </p>
+                  <p>The <hi>Wheel-right</hi> cannot <hi>write right</hi> a <hi>Rite</hi> or Ceremony.</p>
+                  <p>A man of <hi>might</hi> did give a ſmall <hi>mite.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="youths_catechism">
+               <pb facs="tcp:171727:35"/>
+               <head>THE Youths Catechiſm.</head>
+               <p>Qu. <hi>HOw may a man come to learn true Wiſdom?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> By reading and practiſing that which is in the Scripture, 2 <hi>Tim.</hi> 3. 15.</p>
+               <p>Qu. <hi>What is the Scripture?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Scripture is the Old and New Teſtament.</p>
+               <p>Qu. <hi>Who did write the Scripture?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Holy men of God, given by inſpiration of God, 2 <hi>Tim.</hi> 3. 16.</p>
+               <p>Qu. <hi>What is God?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> God is a Spirit, infinite,
+<pb facs="tcp:171727:36"/>
+eternal and unchangeable in his Being, wiſdom, power, holineſs, goodneſs, juſtice, and truth, <hi>Joh. 4. 24. Job 11. 7, 8, 9. Pſal.</hi> 90. 22.</p>
+               <p>Qu. <hi>How many Gods be there?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> But one God, 1 <hi>Cor.</hi> 8. 6.</p>
+               <p>Qu. <hi>How many Perſons be there in the Godhead?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Three, the Father, Son, and Holy Ghoſt, 1 <hi>John</hi> 5. 7.</p>
+               <p>Qu. <hi>What are Gods Decrees?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Gods decrees are his eter<g ref="char:EOLhyphen"/>nal purpoſe concerning all things and perſons, <hi>Eph.</hi> 1. 11.</p>
+               <p>Qu. <hi>What is the work of Crea<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The making of all things of nothing, <hi>Heb.</hi> 11. 3.</p>
+               <p>
+                  <pb facs="tcp:171727:36"/>
+Qu. <hi>How long was God making all things?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Six days, <hi>Exod.</hi> 20. 21.</p>
+               <p>Qu. <hi>How did God create man?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> God created man in his own image, male and female, in knowledge, righteouſneſs, and holineſs, with dominion over the Creation, <hi>Gen. 1. 26. Col. 3. 10.</hi>
+               </p>
+               <p>Qu. <hi>Did our firſt Parents continue in that good eſtate wherein they were created?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> No: they being left to the freedom of their own will, did fall by ſinning againſt God, <hi>Gen.</hi> 3. 6, 7.</p>
+               <p>Qu. <hi>What is ſin?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The tranſgreſſion of the
+<pb facs="tcp:171727:37"/>
+Law of God, 1 <hi>John</hi> 3. 4.</p>
+               <p>Qu. <hi>What was</hi> Adam's <hi>ſin?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Eating of the forbidden fruit, <hi>Geneſis</hi> 2. 17.</p>
+               <p>Qu. <hi>Did all mankind fall with</hi> Adam <hi>in his Tranſgreſſion?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Covenant being made with <hi>Adam,</hi> and his poſterity, he did fall in his firſt tranſgreſſion, <hi>Gen. 2. 16. Rom.</hi> 5. 12.</p>
+               <p>Qu. <hi>What are our eſtates now by nature?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> We are dead in ſins and treſpaſſes, <hi>Eph.</hi> 2. 1.</p>
+               <p>Qu. <hi>Did God leave all mankind in this condition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> No: God hath ſent his Son Jeſus Chriſt to ſave all thoſe
+<pb facs="tcp:171727:37"/>
+that believe in him, <hi>Luke</hi> 1. 35.</p>
+               <p>Qu. <hi>How did God ſend his Son Chriſt Jeſus?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> He was conceived by the Holy Ghoſt, born of the Virgin <hi>Mary,</hi> and became man, and li<g ref="char:EOLhyphen"/>ved among us, <hi>Luke 1. 27. 1 Tim.</hi> 2. 5.</p>
+               <p>Qu. <hi>What hath Chriſt done for us?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> He hath given himſelf a ſa<g ref="char:EOLhyphen"/>crifice to God for us, <hi>Eph.</hi> 2. 5.</p>
+               <p>Qu. <hi>Why did Chriſt come to die?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> That he might give life to Believers, <hi>John</hi> 2. 16.</p>
+               <p>Qu. <hi>How did he give life?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> By being King, Prieſt, and Prophet, <hi>Acts</hi> 3. 36.</p>
+               <p>
+                  <pb facs="tcp:171727:38"/>
+Qu. <hi>What did Chriſt as Prieſt?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> He bought us with him<g ref="char:EOLhyphen"/>ſelf, 1 <hi>Cor.</hi> 6. 20.</p>
+               <p>Qu. <hi>From what did he redeem us?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> From the curſe of the law, <hi>Gal.</hi> 3. 1.</p>
+               <p>Qu. <hi>How did he buy us and re<g ref="char:EOLhyphen"/>deem us?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> By taſting of death upon the Croſs, <hi>Phil.</hi> 2. 8.</p>
+               <p>Qu. <hi>What doth Chriſt as a pro<g ref="char:EOLhyphen"/>phet?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> He reveals Gods will to us, <hi>Matth.</hi> 11. 27.</p>
+               <p>Qu. <hi>What doth Chriſt as a King?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> He rules by his ſpirit and word, <hi>Iſaiah</hi> 30. 21.</p>
+               <p>
+                  <pb facs="tcp:171727:38"/>
+Qu. <hi>Wherein did Chriſts humi<g ref="char:EOLhyphen"/>liation conſiſt.</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> In being born, and made under the law, undergoing the miſeries of this life, dying the death of the Croſs, &amp; continuing dead for a time, <hi>Luke 2. 7. Heb. 12. 2, 3. 1 Cor. 15. 25. Acts</hi> 2. 26.</p>
+               <p>Qu. <hi>Wherein conſiſts Chriſts ex<g ref="char:EOLhyphen"/>altation?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It conſiſts in his riſing again from the dead the third day, in aſcending up into heaven, in ſit<g ref="char:EOLhyphen"/>ting at the right hand of God the Father, and coming to judge the world, at the laſt day, 1 <hi>Cor. 15. 4. Mark 6. 19. Acts 1. 11.</hi>
+               </p>
+               <p>Qu. <hi>Whence is faith?</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:171727:39"/>
+                  <hi>An.</hi> It is the gift of God, <hi>Eph.</hi> 2. 8.</p>
+               <p>Qu. <hi>What is faith?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a truſting to Chriſt for Salvation, <hi>Acts</hi> 16. 31.</p>
+               <p>Qu. <hi>What is Repentance?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The hatred of, and eſchew<g ref="char:EOLhyphen"/>ing all evil, and delighting to do good, <hi>Pſalm</hi> 13. 14.</p>
+               <p>Qu. <hi>What is juſtification?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is an Act of Gods free grace, in pardoning all our ſins in Jeſus Chriſt, through faith, <hi>Rom,</hi> 3. 14. 2 <hi>Cor.</hi> 5. 19, 21.</p>
+               <p>Qu. <hi>What is Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Sanctification is the work of Gods free grace, whereby we are renewed in the whole man,
+<pb facs="tcp:171727:39"/>
+after the Image of God, 2 <hi>Theſſ.</hi> 2. 13. <hi>Eph.</hi> 4. 23, 24.</p>
+               <p>Qu: <hi>What is adoption?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Adoption is an act of Gods free grace, whereby we are recei<g ref="char:EOLhyphen"/>ved into the number, and have a right to all the priviledges of the Sons of God, 1 <hi>John</hi> 3. 1 <hi>John</hi> 1. 12. <hi>Rom.</hi> 8. 14.</p>
+               <p>Qu. <hi>What is the duty which God requireth of man?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> To fear him and keep his Commandments, <hi>Micah</hi> 6. 8.</p>
+               <p>Qu. <hi>How many Commandments are there?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Ten.</p>
+               <p>Qu. <hi>What is required in the firſt Commandment?</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:171727:40"/>
+                  <hi>An.</hi> To worſhip God aright, and none but the true God, <hi>Exod.</hi> 20. 3.</p>
+               <p>Qu. <hi>What is required in the ſe<g ref="char:EOLhyphen"/>cond Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The ſecond Commandment requireth the receiving, obſer<g ref="char:EOLhyphen"/>ving, &amp; keeping pure &amp; entire all ſuch Religion &amp; worſhip as God hath appointed, <hi>Exod.</hi> 20. 4, 5. <hi>Deut.</hi> 32. 46.</p>
+               <p>Qu. <hi>What is required in the third Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The true manner of Gods worſhip, <hi>Exod.</hi> 20. 7.</p>
+               <p>Qu. <hi>What is required in the Fourth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is required that we
+<pb facs="tcp:171727:40"/>
+ſhould keep holy to God ſuch ſet times of worſhip, as one day in ſeven, <hi>Exod,</hi> 20. 9, 10, 11. <hi>Deut.</hi> 5. 12.</p>
+               <p>Qu. <hi>What is required in the fifth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It requireth the preſerving the good name, and performing the duty belonging to every one in their places, <hi>Exod.</hi> 20. 12.</p>
+               <p>Qu. <hi>What is required in the ſixth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The ſixth Commandment requireth all lawful endeavours to preſerve our own lives, and the lives of others, <hi>Ex.</hi> 20. 13. <hi>Eph.</hi> 5. 28.</p>
+               <p>Qu. <hi>What is required in the
+<pb facs="tcp:171727:41"/>
+ſeventh Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> To preſerve our own and neighbours chaſtity, <hi>Ex.</hi> 20. 14.</p>
+               <p>Qu. <hi>What is required in the eighth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> To regard our neighbours good, and furthering the wealth of our ſelves and others, <hi>Exodus</hi> 20. 15.</p>
+               <p>Qu. <hi>What is required in the ninth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> To ſpeak truth betwixt man and man; and to regard our own, and our neighbours good name, <hi>Exod.</hi> 20. 16. <hi>Zach.</hi> 8. 16.</p>
+               <p>Qu. <hi>What is required in the tenth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Inward content, not to
+<pb facs="tcp:171727:41"/>
+covet our neighbours goods, <hi>Exo<g ref="char:EOLhyphen"/>dus</hi> 20. 17.</p>
+               <p>Qu. <hi>Are we able to keep all the Commandments?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> No: but we do dayly break them in thought, word, and deed, <hi>Gen.</hi> 6. 5. <hi>Rom.</hi> 3. 9.</p>
+               <p>Qu. <hi>Are we ſaved by works?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> No: by grace we are ſa<g ref="char:EOLhyphen"/>ved, and that without works, <hi>Eph.</hi> 2. 8.</p>
+               <p>Qu. <hi>Why then are good works to he done?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> To glorifie God in hea<g ref="char:EOLhyphen"/>ven, <hi>Matth.</hi> 5. 16.</p>
+               <p>Qu. <hi>What is a Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> A Sacrament is an holy Ordinance inſtituted by Chriſt,
+<pb facs="tcp:171727:42"/>
+whereby Chriſt and the New Co<g ref="char:EOLhyphen"/>venant are repreſented, ſealed, and applyed to Believers, <hi>Gen.</hi> 17. 7, 10. 1 <hi>Cor.</hi> 11. 23.</p>
+               <p>Qu. <hi>What are the Sacraments of the New Teſtament?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Sacraments of the New Teſtament, are Baptiſm and the Lords Supper, <hi>Math.</hi> 26. 26, 27.</p>
+               <p>Qu. <hi>What is Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a Sacrament wherein by the waſhing of water in the Name of the Father, Son, and Ho<g ref="char:EOLhyphen"/>ly Ghoſt, we are entered into the Church of Chriſt, <hi>Rom</hi> 6. 4.</p>
+               <p>Qu. <hi>What is the Lords Supper?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a Sacrament, wherein by giving and receiving bread &amp;
+<pb facs="tcp:171727:42"/>
+wine, as Chriſt hath appointed, his death is ſhewed forth, and the worthy Receivers made parta<g ref="char:EOLhyphen"/>kers of the body and blood, with all his benefits, 1 <hi>Cor.</hi> 11. 23, 24.</p>
+               <p>Qu. <hi>What is Prayer?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Prayer is an offering up of our deſires to God for things a<g ref="char:EOLhyphen"/>greeable unto his will, in the Name of Chriſt; confeſſing our ſins, and giving thanks for mer<g ref="char:EOLhyphen"/>cies, 1 <hi>John</hi> 5. 14. <hi>John</hi> 16. 43. <hi>Pſalm</hi> 32. 5, 6.</p>
+               <p>
+                  <hi>An.</hi> The Lords Prayer, and all the word of God, laid down in
+<pb facs="tcp:171727:43"/>
+Scripture, <hi>Matt. 6. 9, 10, 11, 12, 13. Luke</hi> 10. 2, 3, 4.</p>
+               <p>Q. <hi>What doth the Preface of the Lords Prayer teach us?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Preface which is <hi>(Our Father which art in Heaven)</hi> teacheth us to draw near to God, with all holy reverence and con<g ref="char:EOLhyphen"/>fidence, that he will anſwer our prayers, <hi>Rom. 8. 13. Luke</hi> 11. 13.</p>
+               <p>Qu. <hi>What do we pray for in the firſt Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The firſt Petition is <hi>(Hal<g ref="char:EOLhyphen"/>lowed be thy name:)</hi> we pray that we and others may glorifie Gods name, and that God would do all things to his own glory, <hi>Pſal. 38. Matth.</hi> 6. 9.</p>
+               <p>
+                  <pb facs="tcp:171727:43"/>
+Qu. <hi>What do we pray for, in the ſecond Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The ſecond Petition is <hi>(Thy Kingdom come)</hi> we pray that the Kingdom of Satan may be de<g ref="char:EOLhyphen"/>ſtroyed, &amp; the Kingdom of Grace may be haſtened, and that he might reign as King, <hi>Matth. 6. 10. Pſal. 68. 1, 18. Rev.</hi> 12. 10, 11.</p>
+               <p>Qu. <hi>What do we pray for in the third Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> In the third Petition, which is <hi>(Thy will be done in earth as it is in Heaven)</hi> we pray that God would teach us to ſubmit to his will in all things, and that ho<g ref="char:EOLhyphen"/>lineſs and righteouſneſs might be in us, <hi>Pſalm 67. Matth.</hi> 6. 10.</p>
+               <p>
+                  <pb facs="tcp:171727:44"/>
+Qu. <hi>What do we pray for in the fourth Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> In the fourth Petition, which is <hi>(Give us this day our day<g ref="char:EOLhyphen"/>ly bread)</hi> we pray that God of his free will would give us things ne<g ref="char:EOLhyphen"/>ceſſary in this life; and we ought to pray for no more, <hi>Mat. 6. 11. Prov.</hi> 30. 8, 9.</p>
+               <p>Qu. <hi>What do we pray for in the fifth Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> In the fifth Petition, which is <hi>(And forgive us our debts as we forgive our debtors)</hi> we pray that God for Chriſt his ſake would forgive our ſins, as we forgive o<g ref="char:EOLhyphen"/>thers that offend us, <hi>Luke 11. 4. Matth.</hi> 18. 35.</p>
+               <p>
+                  <pb facs="tcp:171727:44"/>
+Qu. <hi>What do we pray for, in the ſixth Petition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> In the ſixth Petition, which is <hi>(And lead us not into temptation, but deliver us from evil)</hi> we pray that God would keep us from being tempted to ſin, and that God would deliver us when we are tempted, <hi>Matth.</hi> 6. 13. and 26. 4. 2 <hi>Cor.</hi> 12. 1, 8.</p>
+               <p>Qu. <hi>What doth the concluſion of the Lords prayer teach us?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Concluſion (which is, <hi>For thine is the Kingdom, and the Power, &amp; the Glory, for ever, Amen)</hi> teacheth us to attribute to God all glory &amp; power, as King of all, which doth encourage us to pray
+<pb facs="tcp:171727:45"/>
+to, and praiſe God for ever, <hi>Amen.</hi> which is <hi>(ſo be it) Matth. 6. 13. 1 Chron.</hi> 29. 10, 11, 12, 13.</p>
+            </div>
+            <div type="section">
+               <div type="subsection">
+                  <head>Of God the Father.</head>
+                  <p>THere is but one living and true God everlaſting, with<g ref="char:EOLhyphen"/>out body, parts, paſſion, of infinite power, wiſdom, and goodneſs; the Maker and Preſerver of all things, both viſible and inviſible; and in unity of this God-head, there be three Perſons of one ſub<g ref="char:EOLhyphen"/>ſtance, power and eternity, the Father, the Son, and the Holy Ghoſt.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:45"/>
+                  <head>Of God the Son, Chriſt the Savi<g ref="char:EOLhyphen"/>our of the world.</head>
+                  <p>CHriſt the Son of God, the Word of the Father, begot<g ref="char:EOLhyphen"/>ten from everlaſting of the Fa<g ref="char:EOLhyphen"/>ther, and Eternal God, one Sub<g ref="char:EOLhyphen"/>ſtance with the Father, took mans nature upon him in the Womb of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he bleſſed Virgin, of her ſub<g ref="char:EOLhyphen"/>ſtance, ſo that two whole and perfect Natures, that is to ſay, the Godhead &amp; Manhood, were joy<g ref="char:EOLhyphen"/>ned together in one Perſon, never to be divided, who for our ſakes <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ruly ſuffered moſt grievous tor<g ref="char:EOLhyphen"/>ments, was crucified, dead, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uried to reconcile his Father to
+<pb facs="tcp:171727:46"/>
+us and to be a ſacrifice, not only for original guilt, but alſo for actual ſin.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of God the Holy Ghoſt.</head>
+                  <p>THe Holy Ghoſt is very and eternal God; of one ſub<g ref="char:EOLhyphen"/>ſtance, majeſty and glory with the Father, and the Son proceeding from the Father and the Son.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of men after death.</head>
+                  <p>AFter death, the bodies of men return to duſt, and ſee cor<g ref="char:EOLhyphen"/>ruption, but their ſpirits return to God that gave them, and Gods diſpoſes of their ſouls according to their works; the ſouls of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:171727:46"/>
+righteous in to peace and joy, and the ſouls of the wicked into ſhame and miſery.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of the reſurrection of the dead.</head>
+                  <p>AT the laſt day ſuch as are found alive ſhall not die, but be changed, and all the dead ſhall be raiſed up with the ſame bo<g ref="char:EOLhyphen"/>dies, and be united to their ſouls, and the bodies of the righteous, by the power &amp; merits of Chriſt, partake of that unſpeakable glo<g ref="char:EOLhyphen"/>ry; and the bodies of the wicked to everlaſting ſhame and miſery, where ſhall be weeping, &amp; wail<g ref="char:EOLhyphen"/>ing and gnaſhing of teeth.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:47"/>
+                  <head>Of Heaven.</head>
+                  <p>HEaven is the Seat of God, and of Chriſt the Lamb, the Habitation of Angels, the Reſt<g ref="char:EOLhyphen"/>ing-place of the Faithful, far be<g ref="char:EOLhyphen"/>yond thought; of which none can give a full and true report.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of Hell.</head>
+                  <p>HEll is in all things contrary to Heaven: the devils, and wicked Angels and ſpirits are there; the place of reprobates, full of horror, diſtreſs, and miſery; the land of darkneſs: it is every<g ref="char:EOLhyphen"/>where where Heaven is not.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:47"/>
+                  <head>Of Angels.</head>
+                  <p>ANgels were created of God, immortal, innocent, beauti<g ref="char:EOLhyphen"/>ful, and holy: their habitation is in Heaven, always beholding the face of our Heavenly Father; they are mens guides &amp; keepers; they are Gods meſſengers to ſave or to deſtroy.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of Conſcience.</head>
+                  <p>IT is a Witneſs which our Souls carry about with us, excu<g ref="char:EOLhyphen"/>ſing or accuſing; it ſpeaks peace when we do good, and horror when we do evil: it is a great miſery to have a ſeared conſci<g ref="char:EOLhyphen"/>ence:
+<pb facs="tcp:171727:48"/>
+a good conſcience is a con<g ref="char:EOLhyphen"/>tinual feaſt, it will never leave us; it is a witneſs for God, and a good conſcience is the beſt por<g ref="char:EOLhyphen"/>tion.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of Prayer.</head>
+                  <p>PRayer is the lifting up of the voice, heart, and ſoul to God, petitioning either for neceſſary things of this life, or forgiveneſs of ſins committed. Faith joined with Prayer, maketh it more ef<g ref="char:EOLhyphen"/>fectual: when we read, God ſpeaks to us; and when we pray, we ſpeak to God Payer and Repen<g ref="char:EOLhyphen"/>tance bring peace to the un<g ref="char:EOLhyphen"/>quieted conſcience.</p>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:48"/>
+                  <head>Of Ignorance.</head>
+                  <p>IGnorance is a defect, a weak<g ref="char:EOLhyphen"/>neſs, a diſtemper in the mind, which cauſeth a man to judge a<g ref="char:EOLhyphen"/>miſſ of things: it is a want of wit, it is one of the greateſt enemies man hath, the wiſeſt man is not able to declare the evil of Igno<g ref="char:EOLhyphen"/>rance: Ignorance is the Mother of error and misfortune: Idle<g ref="char:EOLhyphen"/>neſs begets Ignorance: It is bet<g ref="char:EOLhyphen"/>ter to be unborn than untaught.</p>
+                  <p>Ignorance is an enemy to bleſ<g ref="char:EOLhyphen"/>ſedneſs and eternal happineſs.</p>
+                  <p>By the want of wit cometh much harm, &amp; Ignorance leaves much good undone.</p>
+                  <p>
+                     <pb facs="tcp:171727:49"/>
+A man that is ignorant of the revealed Word of God, is lead a<g ref="char:EOLhyphen"/>way with every wind of doctrine.</p>
+               </div>
+               <div type="subsection">
+                  <head>Of Wiſdom.</head>
+                  <p>THe fear of the Lord is the be<g ref="char:EOLhyphen"/>ginning of wiſdom.</p>
+                  <p>He that doth not know and fear the Lord, is a fool.</p>
+                  <p>He that feareth the Lord, and keepeth his commandments, is of a good underſtanding.</p>
+                  <p>That man, woman, or child which knows Jeſus Chriſt to be their Saviour, is of the beſt under<g ref="char:EOLhyphen"/>ſtanding, and there will be light, and life and true wiſdom.</p>
+                  <p>A wiſe ſon heareth his fathers inſtruction, but a ſcorner heareth not rebuke.</p>
+                  <p>
+                     <pb facs="tcp:171727:49"/>
+The ſimple believeth every word, but the prudent man look<g ref="char:EOLhyphen"/>eth well to his going.</p>
+                  <p>A wiſe man feareth and depart<g ref="char:EOLhyphen"/>eth from evil, but the fool rageth and is confident.</p>
+                  <p>He that is void of wiſdom, de<g ref="char:EOLhyphen"/>ſpiſeth his neighbor: but a man of underſtanding holdeth his peace.</p>
+                  <p>This ſmall Book will not con<g ref="char:EOLhyphen"/>tain that which might compleat thee in the School of wiſdom; therefore I ſhall mention ſuch Books as may help thee in ſpiri<g ref="char:EOLhyphen"/>tual wiſdom, and temporal un<g ref="char:EOLhyphen"/>derſtanding, and the Lord give thee underſtanding to chuſe good and eſchew evil.</p>
+                  <closer>Amen.</closer>
+               </div>
+            </div>
+            <div type="Psalm_paraphrases_with_meditations">
+               <pb facs="tcp:171727:50"/>
+               <div type="subsection">
+                  <head>
+                     <hi>Pſalm 119. verſe</hi> 9.</head>
+                  <p>WHerewithall ſhall a young man cleanſe his way? By taking heed to thy word.</p>
+                  <lg>
+                     <head>Verſe.</head>
+                     <l>BY what means may a young man beſt</l>
+                     <l>his life learn to amend?</l>
+                     <l>If that he mark &amp; keep thy word,</l>
+                     <l>and therein his time ſpend.</l>
+                  </lg>
+                  <lg>
+                     <head>Another.</head>
+                     <l>How can youths path-way clean<g ref="char:EOLhyphen"/>ſed be,</l>
+                     <l>but by thy word, O Lord?</l>
+                     <l>With all my heart I ſeek to thee,</l>
+                     <l>O guide me by thy word.</l>
+                  </lg>
+                  <div type="meditation">
+                     <head>Meditation.</head>
+                     <p>Suffer me not, O God, to de<g ref="char:EOLhyphen"/>ferr the amendment of my life,
+<pb facs="tcp:171727:50"/>
+until I be decrepit with age; but let thy word reform me in my youth, yea from this preſent hour: Teach me, O Lord, to delight in thee, to ſeek thee, praiſe thee, ſpeak of thee, meditate on thee, and keep in the way of thy Com<g ref="char:EOLhyphen"/>mandments for ever.</p>
+                     <closer>Amen.</closer>
+                  </div>
+               </div>
+               <div type="subsection">
+                  <head>
+                     <hi>Pſalm 25. verſe</hi> 7.</head>
+                  <p>O Remember not the ſins and offences of my youth, but ac<g ref="char:EOLhyphen"/>cording to thy mercy think upon me for thy goodneſs ſake.</p>
+                  <lg>
+                     <head>Verſe.</head>
+                     <l>Remember not my faults, O Lord,</l>
+                     <l>and ſrailties of my youth,</l>
+                     <l>Remember not how ignorant</l>
+                     <l>I have been of thy truth.</l>
+                     <l>
+                        <pb facs="tcp:171727:51"/>
+Nor after my deſerts,</l>
+                     <l>Let me thy mercy find:</l>
+                     <l>But of thy own benignity,</l>
+                     <l>Lord, have me in thy mind.</l>
+                  </lg>
+                  <lg>
+                     <head>Another.</head>
+                     <l>My ſins of youth, and treſpaſſes,</l>
+                     <l>to mind oh do not take:</l>
+                     <l>O mind me in thy tenderneſs,</l>
+                     <l>Lord, for thy goodneſs ſake.</l>
+                  </lg>
+                  <div type="meditation">
+                     <head>Meditation.</head>
+                     <p>Remember not the ſins of my youth, O Lord; Blot out my tranſgreſſions; let not the follies of my youth nor the greatneſs of any other ſins, deprive me of thy loving kindneſs: Conſider my weakneſs and have mercy upon me, for Chriſt his ſake.</p>
+                     <closer>Amen.</closer>
+                  </div>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:51"/>
+                  <head>
+                     <hi>Pſalm</hi> 128.</head>
+                  <lg>
+                     <l>BLeſſed art thou that feareſt God,</l>
+                     <l>and walkeſt in his way:</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2</head>
+                     <l>For of thy labor thou ſhalt eat,</l>
+                     <l>happy art thou, I ſay.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3</head>
+                     <l>Like fruitful vines on thy houſe ſide</l>
+                     <l>ſo doth thy wife ſpring out:</l>
+                     <l>Thy Children ſtand like Olive<g ref="char:EOLhyphen"/>plants,</l>
+                     <l>thy 'table round about.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4</head>
+                     <l>Thus art thou bleſt that feareſt God</l>
+                     <l>and he ſhall let the ſee</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5</head>
+                     <l>The promiſed Jeruſalem,</l>
+                     <l>and her felicitie.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6</head>
+                     <l>Thou ſhalt thy childrens chil<g ref="char:EOLhyphen"/>dren ſee,</l>
+                     <l>to thy great joyes encreaſe:</l>
+                     <l>And likewiſe grace on Iſrael,</l>
+                     <l>proſperity and peace.</l>
+                  </lg>
+               </div>
+               <div type="subsection">
+                  <pb facs="tcp:171727:52"/>
+                  <head>
+                     <hi>Pſalm.</hi> 138.</head>
+                  <lg>
+                     <l>BEhold and have regard,</l>
+                     <l>ye ſervants of the Lord,</l>
+                     <l>Which in his houſe by night do Watch,</l>
+                     <l>praiſe him with one accord:</l>
+                     <l>Lift up your hand on high,</l>
+                     <l>unto his holy place,</l>
+                     <l>And give the Lord his praiſes due,</l>
+                     <l>his benefits embrace.</l>
+                     <l>For why? The Lord who did</l>
+                     <l>both Earth and Heaven frame,</l>
+                     <l>Doth Sion bleſs, and will con<g ref="char:EOLhyphen"/>ſerve</l>
+                     <l>for ever more the ſame.</l>
+                  </lg>
+               </div>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:52"/>
+               <head>Grounds of Grammar.</head>
+               <p>Q. <hi>WHat is the Accidence?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The firſt book which we uſe to learn the grounds of Grammar in.</p>
+               <p>Qu. <hi>What doth the Grammar teach?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> The Grammar is an Art that teacheth to write, and the true order of ſpeech.</p>
+               <p>Qu. <hi>What is ſpeech?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Every word that men ſpeak is Speech.</p>
+               <p>Qu. <hi>What call ye Word?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Every word is a part of Speech.</p>
+               <p>Qu. <hi>How many parts of Speech be there?</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:171727:53"/>
+                  <hi>An.</hi> Eight.</p>
+               <p>Qu. <hi>Which be they?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Noun, Pronoun, Verb, Participle: Adverb, Conjunction, Prepoſition, Interjection.</p>
+               <p>Qu. <hi>Why but eight Parts of ſpeech, ſeeing that there are ſo many words?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> Every word that is ſpoken, is one of theſe eight.</p>
+               <p>Qu. <hi>What is a Noun?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> All names of things are Nouns, as <hi>Manus,</hi> a Hand; or <hi>Franciſcus,</hi> Francis.</p>
+               <p>Qu. <hi>What is a Pronoun?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> A pronoun is a word put in ſtead of a Noun: as <hi>tu,</hi> thou; <hi>vos,</hi> ye.</p>
+               <p>
+                  <pb facs="tcp:171727:53"/>
+Qu. <hi>What is a Verb?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a word ſignifying to be be, as <hi>ſum,</hi> I am: to do, as <hi>doceo,</hi> I teach: to ſuffer, as <hi>doceor,</hi> I am taught.</p>
+               <p>Qu. <hi>What is a participle?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a word declined with Caſe like a Noun, and ſignifies to do or ſuffer like a Verb: as <hi>doctus,</hi> taught.</p>
+               <p>Qu. <hi>What is an adverb?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> An Adverb is a word joy<g ref="char:EOLhyphen"/>ned to other words, to ſhew their meaning: as <hi>vivit honeſtè,</hi> he lives honeſtly.</p>
+               <p>Qu. <hi>What is a conjunction?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a word which joynes other words together, which be of divers ſorts.</p>
+               <p>
+                  <pb facs="tcp:171727:54"/>
+Qu. <hi>What is a Prepoſition?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a word ſet beſore o<g ref="char:EOLhyphen"/>ther words ſerving to an Accuſa<g ref="char:EOLhyphen"/>tive Caſe, or an Ablative Caſe.</p>
+               <p>Qu. <hi>What is an Interjection?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> It is a word which ſignifies ſome paſſion, as <hi>evax!</hi> oh brave!</p>
+               <list>
+                  <head>Twenty in Latin.</head>
+                  <item>1 Unus</item>
+                  <item>2 Duo</item>
+                  <item>3 Tres</item>
+                  <item>4 Quatuor</item>
+                  <item>5 Quinque</item>
+                  <item>6 Sex</item>
+                  <item>7 Septem</item>
+                  <item>8 Octo</item>
+                  <item>9 Novem</item>
+                  <item>10 Decem</item>
+                  <item>11 Undecem</item>
+                  <item>12 Duodecem</item>
+                  <item>13 Tredecem</item>
+                  <item>14 Quatuordecem</item>
+                  <item>15 Quindecem</item>
+                  <item>16 Sexdecem</item>
+                  <item>17 Septendecem</item>
+                  <item>18 Octodecem</item>
+                  <item>19 Novendecem</item>
+                  <item>20 Viginti</item>
+               </list>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:54"/>
+               <head>INSTRUCTIONS FOR WRITING.</head>
+               <div type="instructions">
+                  <head>How to ſit to write.</head>
+                  <p>THe Paper or Book you write in, muſt lie ſtraight before you, and you muſt ſit upright, with your breaſt from the board: you muſt bear your head the di<g ref="char:EOLhyphen"/>ſtance of a ſpan from your wri<g ref="char:EOLhyphen"/>ting, and hold your right Elbow almoſt cloſe to your body, and turn your hand outward, or from you.</p>
+               </div>
+               <div type="instructions">
+                  <pb facs="tcp:171727:55"/>
+                  <head>Neceſſaries for Writing.</head>
+                  <p>BEſides a clean ſheet of Paper or a Book to write in, you muſt have a waſte Paper under your hand, whereon to try your Letters, and ſo keep that Paper clean on which you write: You muſt alſo have a ſmall pair of Compaſſes to rule double Lines betwixt which you muſt write, and ſo keep the heads, and feet of your Letters even: Beſides, you muſt have a little flat Ruler for that purpoſe.</p>
+               </div>
+               <div type="instructions">
+                  <pb facs="tcp:171727:55"/>
+                  <head>Rules for Writing.</head>
+                  <p n="1">1 TAke your Ink up ſparingly with the hollow ſide of your Pen downwards, and be ſure it be free from hairs.</p>
+                  <p n="2">2. Imitate the ſmall Letters firſt, and begin not to make an<g ref="char:EOLhyphen"/>other before you can make one well.</p>
+                  <p n="3">3. Take care to give all Let<g ref="char:EOLhyphen"/>ters having whites within them, the ſame compaſs: As the <hi>a b d e g o</hi> and <hi>p.</hi>
+                  </p>
+                  <p n="4">4. In Roman and Italian hands all the Letters, with ſtems, or long Letters, muſt be of one height.</p>
+                  <p n="5">5. All the tayls of Letters co<g ref="char:EOLhyphen"/>ming
+<pb facs="tcp:171727:56"/>
+beneath the lines muſt be of one length.</p>
+                  <p n="6">6. The ſpace of a ſmall <hi>o</hi> and another, when you writ joy<g ref="char:EOLhyphen"/>ning.</p>
+                  <p n="7">7. Take great care to give each Letter its true Full and Small, ac<g ref="char:EOLhyphen"/>cording to the Copies.</p>
+                  <lg>
+                     <l>Tranſeend the Copies in this Book, and then</l>
+                     <l>You ſhall be honour'd with a Golden Pen.</l>
+                  </lg>
+                  <p>Here followeth the Copy-Book.</p>
+               </div>
+            </div>
+            <div type="copy_book">
+               <p>
+                  <pb facs="tcp:171727:56"/>
+                  <figure>
+                     <figDesc>engraved heading</figDesc>
+                     <head>Examples of Secretarie. Roman. and Italian Hands.</head>
+                  </figure>
+               </p>
+               <p>Place this betwixt G &amp; H</p>
+               <div type="examples">
+                  <pb facs="tcp:171727:57"/>
+                  <pb facs="tcp:171727:57"/>
+                  <pb facs="tcp:171727:58"/>
+                  <head>Secretary Hand.</head>
+                  <p>
+                     <hi>A a b c d d e f g h i k l m n o p p q r r ſ <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> t v u w x y z</hi>
+                  </p>
+                  <p>
+                     <hi>A B C D E F G H I K L M N O P Q R S T U W X Y Z</hi>
+                  </p>
+                  <p>
+                     <hi>Our Enterprize will quickly fade, except y<hi rend="sup">e</hi> Almighty bleſs it</hi>
+                  </p>
+                  <p>
+                     <hi>In y<hi rend="sup">e</hi> race of vertu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be exceeding quicke &amp; win that most lovely prize</hi>
+                  </p>
+               </div>
+               <div type="examples">
+                  <pb facs="tcp:171727:58"/>
+                  <head>Roman Hand.</head>
+                  <p>
+                     <hi>A a b c d e f g h i k l m n o p q r ſ s t v u w w x y z &amp;</hi>
+                  </p>
+                  <p>
+                     <hi>A B C D E F G H I K L M N O P Q R S T V W X Y Z</hi>
+                  </p>
+                  <p>
+                     <hi>'Tis a brave thing to equalize workes excellently performed.</hi>
+                  </p>
+               </div>
+               <div type="examples">
+                  <pb facs="tcp:171727:59"/>
+                  <pb facs="tcp:171727:59"/>
+                  <pb facs="tcp:171727:60"/>
+                  <head>Italian Hand.</head>
+                  <p>
+                     <hi>A a b c d e e f g h i k l m n o p p q r r s s s t v u w x y z</hi>
+                  </p>
+                  <p>
+                     <hi>A B C D E F G H I K L M N O P Q R S T V W X Y Z</hi>
+                  </p>
+                  <p>
+                     <hi>Men will eternize their names by doing perfect &amp; exquisite works.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:60"/>
+               <head>Of Arithmetick: Or, Caſting Account.</head>
+               <p>ARithmetick is the Art of Numbring. You muſt learn many rules to attain it: as, Nu<g ref="char:EOLhyphen"/>meration, Addition, Subſtraction, Multiplication, Diviſion, Pro<g ref="char:EOLhyphen"/>greſſion, the Rule of Three, with many more: But I ſhall only ſhew you ſome things of Numeration and Addition, that you may be able to caſt up a Sum of pounds, ſhillings, and pence.</p>
+               <p>Numeration is to know the true value of any Sum propoſed.</p>
+               <floatingText xml:lang="eng" type="example">
+                  <body>
+                     <head>As for example.</head>
+                     <p>1 2 3 4 5 6 7 8 9 0</p>
+                  </body>
+               </floatingText>
+               <p>
+                  <pb facs="tcp:171727:61"/>
+Theſe Figures I hope you know the value of already. To number more together, is thus.</p>
+               <p>10, a figure of 1 and a cypher, is ten. 15, a figure of 1 and 5, is fifteen. 20, a figure of 2 and a cypher, is twenty, and ſo on: 24 twenty four, 30 thirty: 33 thirty three: 40 forty: 41 forty one: 70 ſeven<g ref="char:EOLhyphen"/>ty: 76 ſeventy ſix: 90 ninety: 99 ninty nine.</p>
+               <p>The firſt figure is an Unit, the ſecond figure is Ten, and the third Figure is an Hundred.</p>
+               <p>
+                  <table>
+                     <row role="label">
+                        <cell>Hundred.</cell>
+                        <cell>Ten.</cell>
+                        <cell>Unit.</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Which is thus 342, three hun<g ref="char:EOLhyphen"/>dred forty two; 563, is five hun<g ref="char:EOLhyphen"/>dred
+<pb facs="tcp:171727:61"/>
+ſixty three: 976, is nine hundred ſeventy ſix: 110, is one hundred and ten.</p>
+               <p>
+                  <table>
+                     <head>Another Example.</head>
+                     <row role="label">
+                        <cell>Thouſand.</cell>
+                        <cell>Hundred.</cell>
+                        <cell>Ten.</cell>
+                        <cell>Unit.</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>6</cell>
+                        <cell>5</cell>
+                        <cell>9.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Which is, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty and nine, 2762, is two thouſand ſeven hundred ſixty &amp; two; and ſo it may continue on: As units, tens, hundreds, thou<g ref="char:EOLhyphen"/>ſands, ten thouſands, hundred thouſands, millions, ten millions, hundreds of millions, thouſands of millions, millions of millions,
+<table>
+                     <head>As for example.</head>
+                     <row role="label">
+                        <cell>millions</cell>
+                        <cell>thouſands</cell>
+                        <cell>hundreds.</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>567</cell>
+                        <cell>890</cell>
+                     </row>
+                  </table>
+                  <pb facs="tcp:171727:62"/>
+which is twenty three millions five hundred ſixty ſeven thou<g ref="char:EOLhyphen"/>ſand eight hundred and ninety.</p>
+               <p>So much for Numeration.</p>
+            </div>
+            <div type="section">
+               <head>Of Addition.</head>
+               <p>ADdition is to bring together two, or more, ſums into one.
+<table>
+                     <head>As for example.</head>
+                     <row role="label">
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Paid for ſix quire of Paper</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Paid for Quills</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Paid for a cyphering-Book</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row role="label">
+                        <cell>
+                           <hi>The ſum is</hi>
+                        </cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>You muſt in this manner caſt it up, ſaying; 6 pence and 6 pence is 12 pence, that is one ſhilling; I take that ſhilling and add to the 2 ſhillings, &amp; it makes 3 ſhillings:
+<table>
+                     <pb facs="tcp:171727:62"/>
+                     <head>Another Example.</head>
+                     <row role="label">
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Receiv'd of my father</cell>
+                        <cell>0</cell>
+                        <cell>16</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Receiv'd more</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Receiv'd more</cell>
+                        <cell>1</cell>
+                        <cell>00</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Receiv'd more</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row role="label">
+                        <cell>
+                           <hi>The Sum is</hi>
+                        </cell>
+                        <cell>2</cell>
+                        <cell>16</cell>
+                        <cell>4</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>I would know how much I have received in all; It is thus.</p>
+               <p>In the place of pence, there is but 4 pence; it being leſs than a ſhilling, put it under pence, 4: next you come to ſhillings, and find 16 ſhillings, and ten ſhil<g ref="char:EOLhyphen"/>lings, and ten ſhillings, which is one pound 16 ſhillings: carry
+<pb facs="tcp:171727:63"/>
+one pound, and put ſixteen ſhil<g ref="char:EOLhyphen"/>lings under the place of ſhillings; and that one pound that you car<g ref="char:EOLhyphen"/>ried, and the other pound in the place of pounds, make 2 pounds 16 ſhilling 4 pence, which you received of your father.
+<table>
+                     <head>More Examples.</head>
+                     <row role="label">
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>2</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>6</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>15</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>17</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>18</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>05</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>06</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>00</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>23</cell>
+                        <cell>07</cell>
+                        <cell>11</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:63"/>
+               <head>Several Receipts very uſe<g ref="char:EOLhyphen"/>ful and delightful to youth.</head>
+               <div type="recipe">
+                  <head>How to make a Childe learn the 24 letters of the Alphabet with eaſe and delight.</head>
+                  <p>TAke a Sugar-Plumb (or ſuch like) which is ſix ſquare, and upon every ſquare, put one; and make faſt a Letter, ſix letters, as <hi>a b c d e f,</hi> on the ſix ſquares, and ſo to be caſt like Dice, and when the Child knows the Let<g ref="char:EOLhyphen"/>ters perfectly, let him eat the Plumb for his pains: This way of encouraging Children is appro<g ref="char:EOLhyphen"/>ved: there are alſo ſmall Books
+<pb facs="tcp:171727:64"/>
+full of Pictures to teach children to know the 24 letters of the Al<g ref="char:EOLhyphen"/>phabet containing 24 Pictures: As, A for <hi>Ape;</hi> B for <hi>Bear;</hi> D for <hi>Dog,</hi> very delightful for Children: You may be furniſhed with both at the Anchor and Mariner in <hi>Tower-ſtreet.</hi>
+                  </p>
+               </div>
+               <div type="recipe">
+                  <head>To ſtanch bleeding at the Noſe.</head>
+                  <p>Take a piece of Bread and ſop it in Vinegar, and eat it.</p>
+               </div>
+               <div type="recipe">
+                  <head>To ſtanch blood and heal a Cut.</head>
+                  <p>Take the ſhavings of Parch<g ref="char:EOLhyphen"/>ment, and lay it in the wound; it will ſtanch the blood, and heal the place.</p>
+               </div>
+               <div type="recipe">
+                  <pb facs="tcp:171727:64"/>
+                  <head>To help a ſtinking breath.</head>
+                  <p>Take a handful of Cummin<g ref="char:EOLhyphen"/>ſeed, and ſeethe it in good white<g ref="char:EOLhyphen"/>wine, from a quart to a pint; and drink of it for eight or nine days both morning and evening.</p>
+               </div>
+               <div type="recipe">
+                  <head>For a Cough, or Cold.</head>
+                  <p>Take a quart of Ale or Milk, and boyl it with Roſemary; then put in a ſpoonful of Sugar, and brew them together; then go to bed and drink it off, keeping your ſelf very warm.</p>
+               </div>
+               <div type="recipe">
+                  <head>For the Head-ach.</head>
+                  <p>Take Betany dried, and rub it, or Tobacco made ſmall, and put it in the Noſe, and ſnuff it up, keeping your head very warm.</p>
+               </div>
+               <div type="recipe">
+                  <pb facs="tcp:171727:65"/>
+                  <head>To help a Burning.</head>
+                  <p>If you chance to burn your fin<g ref="char:EOLhyphen"/>ger, or any other part of the bo<g ref="char:EOLhyphen"/>dy, hold the burnt place imme<g ref="char:EOLhyphen"/>diatly as near the fire as you can poſſibly endure it, and the heat of the one fire will draw out the other fire.</p>
+               </div>
+               <div type="recipe">
+                  <head>To heal a Burning, or a Scald.</head>
+                  <p>Take the fat of dryed Bacon, and hold it between a pair of Tongs red-hot, and let it drop in a pot of fair water, of which dropping make a Plaiſter. Snow<g ref="char:EOLhyphen"/>water and Oyle of Cream is like<g ref="char:EOLhyphen"/>wiſe very good.</p>
+               </div>
+               <div type="recipe">
+                  <head>A Medicine for the Itch.</head>
+                  <p>Take half a pint of <hi>Borus,</hi> two
+<pb facs="tcp:171727:65"/>
+peny-worth of <hi>Quick-ſilver,</hi> and four peny-worth of <hi>Frankincenſe,</hi> put them together, and anoint all your joynts.</p>
+               </div>
+               <div type="recipe">
+                  <head>How to make good Ink.</head>
+                  <p>Take a gallon of Rain-water, and put in a pound of Gauls bea<g ref="char:EOLhyphen"/>ten, a pound of Gum, and half a pound of Copperis, and ſtir them together every morning till it be fit for uſe.</p>
+               </div>
+               <div type="recipe">
+                  <head>How to write with Gold.</head>
+                  <p>Take a ſhell of Gold of 4 pence or 6 pence price, and put in 3 or 4 drops of Gum-water, and ſtir it together, then write as with Ink: when it is dry, put a clean paper upon it, and rub it over with a
+<pb facs="tcp:171727:66"/>
+ſmooth tooth, and it will give it a gloſs. Gum diſſolved in water, is Gum-water.</p>
+               </div>
+               <div type="recipe">
+                  <head>To keep Ink from freezing.</head>
+                  <p>Take <hi>Aquavitae,</hi> and put into your Ink, and it will preſerve it from freezing.</p>
+               </div>
+               <div type="recipe">
+                  <head>To write ſo that it ſhall not be read till it be holden to the fire.</head>
+                  <p>Take milk, or the juice of a Lemmon or Onion, and write upon fair Paper, and it will never be ſeen till you hold it, and warm it before the fire.</p>
+               </div>
+               <div type="recipe">
+                  <head>A ready way to catch Moles.</head>
+                  <p>Take Onions, Garlick and Leeks, and put them into the mouths of their holes, and they will run out amazed.</p>
+               </div>
+            </div>
+            <div type="form_letter">
+               <pb facs="tcp:171727:66"/>
+               <head>A Letter of Counſel from a Father to a Son.</head>
+               <p>SON, My prayers to God for thee, and my love to thee. Let this letter of counſel be accepted by thee: above all things know and fear God thy Creator, and Jeſus Chriſt the Son of God, the Saviour of the world: keep a good Conſcience void of offence to<g ref="char:EOLhyphen"/>wards God and man. Let not, I pray thee, idle thoughts, words and actions prevail: bridle thy tongue, and thou wilt find much peace and content: keep not com<g ref="char:EOLhyphen"/>pany with the wicked, ſhun folly and idleneſs, give thy mind to
+<pb facs="tcp:171727:67"/>
+thoſe Books you have, I have ſent you a Bible, which I would have you to read, ſtudy, and practiſe, and the Lord increaſe thy under<g ref="char:EOLhyphen"/>ſtanding: I ſhall be glad to hear from thee, and let me know what Books you want. If you love to read, you ſhall not want Books; and ſo learn to be a dutiful child, and you will engage me to remain,</p>
+               <closer>
+                  <dateline>
+                     <hi>London</hi> 
+                     <date>
+                        <hi>June</hi> 18. 1672.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your loving Father</hi> E. Maſſon.</signed>
+               </closer>
+            </div>
+            <div type="form_letter">
+               <pb facs="tcp:171727:67"/>
+               <head>The Anſwer from a dutiful Son.</head>
+               <p>HOnoured and dear Father, my duty preſented to you, I hope God hath and doth hear your prayers for me, for I do delight to read the holy Scripture, and therein I learn to know and fear my God and Saviour. I do love thoſe that are good, &amp; delight my ſelf in their companies, becauſe they are good, ſo always learning wiſdom and goodneſs: alſo it is my deſire to live to your comfort, my good Father. Sir, I have re<g ref="char:EOLhyphen"/>ceived a good token from you, a Bible, which the Lord give me grace to read and practiſe: I be<g ref="char:EOLhyphen"/>ſeech
+<pb facs="tcp:171727:68"/>
+you to ſend me a Grammar, and <hi>Wits-Common-wealth,</hi> a Book called <hi>Youths Behaviour,</hi> an <hi>Eng<g ref="char:EOLhyphen"/>liſh School-Maſter,</hi> the <hi>Crums of Cumfort;</hi> and I will in duty pro<g ref="char:EOLhyphen"/>miſe to read them, and learn wiſ<g ref="char:EOLhyphen"/>dom to the Glory of God, and your comfort; which ſhall ever be the deſire of</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>July</hi> 10. 1659</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your dutiful Son,</hi> Tho. Maſſon.</signed>
+The Superſcription.
+<hi>To my Honoured Father, Mr.</hi> E. Maſſon, <hi>London.</hi>
+               </closer>
+            </div>
+            <div type="form_letter">
+               <pb facs="tcp:171727:68"/>
+               <head>
+                  <hi>To my honoured Father, Mr.</hi> Free<g ref="char:EOLhyphen"/>man <hi>in Tower-ſtreet,</hi> London.</head>
+               <p>MY honored &amp; good Father and Mother, my duty pre<g ref="char:EOLhyphen"/>ſented to you, hoping that theſe few lines will find you in good and perfect health; as I was at the writing, praiſed be God. I am every day more and more ſenſible of your Fatherly and Motherly love to me, and care over me: I am alſo ſenſible of my unthank<g ref="char:EOLhyphen"/>fulneſs and unprofitableneſs to you theſe ten years, (I being ſo old:) I am very ſorry for it, and now with the help of my God, as I grow in years, I will grow in
+<pb facs="tcp:171727:69"/>
+grace and good manners, to the honour of God, and comfort of you my good parents; I have lear<g ref="char:EOLhyphen"/>ned-out my <hi>Youths Book:</hi> And be pleaſed, good father, ſo that I may not want ſuch helps, as Books and keeping at School, ſo that I may perſevere in knowledge and wiſ<g ref="char:EOLhyphen"/>dom. Sir, I want a Bible, a ſpel<g ref="char:EOLhyphen"/>ling Book, and a Copy book. My Maſter doth take great care and pains with me, that your Coſt and my time may not be loſt: But that it may tend to the glory of God, and your comfort, is the deſire of</p>
+               <closer>
+                  <dateline>
+                     <hi>Warwick,</hi> 
+                     <date>20. <hi>July,</hi> 1660.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your dutiful Son,</hi> John Freeman.</signed>
+               </closer>
+            </div>
+            <div type="form_letter">
+               <pb facs="tcp:171727:69"/>
+               <head>A Letter from the Son to the Father.</head>
+               <opener>
+                  <salute>To my Honoured Father, Maſter <hi>Brouton,</hi> Merchant in <hi>London. Honoured Sir,</hi>
+                  </salute>
+               </opener>
+               <p>YOur Letter I have received, and Fatherly Counſel I joy<g ref="char:EOLhyphen"/>fully embrace; for to ſerve God is the duty of a Chriſtian, and no longer do I deſire to live, than in the care of that comfort: To con<g ref="char:EOLhyphen"/>tinue at School is my delight and deſire; learning is no burthen, and knowledge is profitable; the Scri<g ref="char:EOLhyphen"/>pture I do daily read, knowing it is ſufficient to make me wiſe
+<pb facs="tcp:171727:70"/>
+unto Salvation, through faith in Jeſus Chriſt. I find my ſelf as yet weak in the underſtanding of the Scripture, having neither Latin, Greek, nor Hebrew: Sir, I moſt humbly entreat you upon my bended knees, to let me continue at School till I learn Latine and Greek at leaſt: for I know and am perſwaded that where Learning i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wanting, Ignorance aboundeth<g ref="char:punc">▪</g> Learning I know is a handmaid to wiſdom and vertue, which are the things my ſoul deſireth: to that end I crave your prayers, and remain</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Sept</hi> 22. 1659.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your dutiful So<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> T. B.</signed>
+               </closer>
+            </div>
+            <div type="promissory_note">
+               <pb facs="tcp:171727:70"/>
+               <head>An Obligation.</head>
+               <p>BE it known unto all men by theſe preſents that I <hi>William Jones</hi> of <hi>Keinton</hi> in the County of <hi>Kent,</hi> Butcher, do owe and am indebted unto <hi>Henry Fox,</hi> of <hi>Rumford</hi> in the County of <hi>Eſſex,</hi> Yeoman, the ſum of Ten pounds of good and lawful money of <hi>England,</hi> to be paid to the above<g ref="char:EOLhyphen"/>ſaid <hi>Henry,</hi> his Heirs, Executors, Adminiſtrators or Aſſigns, in and upon the firſt day of <hi>July</hi> next en<g ref="char:EOLhyphen"/>ſuing the date hereof; for the which payment well and truly to be paid I bind my Heirs, Execu<g ref="char:EOLhyphen"/>tors, and Adminiſtrators in the ſum of twenty pounds of like mo<g ref="char:EOLhyphen"/>ney
+<pb facs="tcp:171727:71"/>
+of <hi>England,</hi> in witneſs where<g ref="char:EOLhyphen"/>of I have hereunto ſet my hand and ſeal the twentieth day of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> One thouſand, ſix hun<g ref="char:EOLhyphen"/>dred, fifty and nine.</p>
+               <closer>
+                  <signed>W. J.</signed>
+                  <hi>Sealed and delivered in the preſence of</hi> J. D: H. F.</closer>
+            </div>
+            <div type="promissory_note">
+               <head>A Bond with Condition.</head>
+               <p>KNow all men by theſe Pre<g ref="char:EOLhyphen"/>ſents, That I <hi>John Day</hi> of <hi>Rocheſter</hi> in the County of <hi>Kent,</hi> Carpenter, am holden and firmly bound unto <hi>Francis Goodman</hi> of <hi>Graveſend,</hi> in the ſame county, Gentleman, in the ſum of twenty pounds of good and lawful mo<g ref="char:EOLhyphen"/>ney of <hi>England,</hi> to be paid to the
+<pb facs="tcp:171727:71"/>
+above-ſaid <hi>Francis Goodman,</hi> his Heirs, Executors, Adminiſtrators or Aſſigns; for the which pay<g ref="char:EOLhyphen"/>ment well and truly to be paid, I binde my Heirs, Executors, and Adminiſtrators firmly to theſe Preſents. Sealed with my ſeal. Da<g ref="char:EOLhyphen"/>ted the fifth of <hi>July,</hi> one thouſand ſix hundred fifty nine.</p>
+               <p>The Condition of this Obliga<g ref="char:EOLhyphen"/>tion is ſuch, That if the above bounden <hi>John day,</hi> his heirs, Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators, or Aſſigns ſhall pay or cauſe to be paid, to the above-named <hi>Francis Good<g ref="char:EOLhyphen"/>man,</hi> his Heirs, Executors, Admi<g ref="char:EOLhyphen"/>niſtrators, or Aſſigns, the ſum of Ten pounds of good and lawful
+<pb facs="tcp:171727:72"/>
+money of <hi>England,</hi> in, and upon the ſecond day of <hi>November</hi> next enſuing the date hereof; that then this preſent Obligation ſhall be void and of no effect, or elſe to remain in full power, force, and vertue.</p>
+               <closer>
+                  <signed>E. D.</signed>
+                  <hi>Sealed</hi> eod. <hi>in the pre<g ref="char:EOLhyphen"/>ſence of</hi> G. H: W. L.</closer>
+            </div>
+            <div type="receipt">
+               <head>A ſhort Acquittance or Receipt.</head>
+               <p>REceived the 29 of <hi>June</hi> 1659. of <hi>Joſeph Meriman,</hi> the ſum of ten pounds in full of all Debts, Dues, Demands, Contracts, Bar<g ref="char:EOLhyphen"/>gains, <hi>&amp;c.</hi> In witneſs whereof I have put to my hand the day and year above written.</p>
+               <closer>
+                  <signed>By me <hi>Stephen Pits.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:72"/>
+               <head>Of the year.</head>
+               <p>IN a year there is 365 Days, there is 52 weeks, there is 12 Moneths: the moneths are called by their names as followeth: <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> hath 31 days, <hi>February</hi> 28 days, and every Leap-year 29 days, <hi>March</hi> hath 31 days, <hi>April 30, May 31, June 30, July 31, Auguſt 31, September 30, October 31, No<g ref="char:EOLhyphen"/>vember 30, December</hi> 31.</p>
+               <p>The Year is alſo divided into four parts; as <hi>Spring, Summer, Au<g ref="char:EOLhyphen"/>tumn</hi> and <hi>Winter.</hi>
+               </p>
+            </div>
+            <div type="almanac">
+               <pb facs="tcp:171727:73"/>
+               <head>A Perpetual Almanack.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Marc 1</cell>
+                        <cell>Augu 6</cell>
+                        <cell>May 3</cell>
+                        <cell>Oct 8</cell>
+                        <cell>April 2</cell>
+                        <cell>Sept 7</cell>
+                        <cell>Iune 4</cell>
+                     </row>
+                     <row>
+                        <cell>Nou 9</cell>
+                        <cell>O</cell>
+                        <cell>Ian 11</cell>
+                        <cell>O</cell>
+                        <cell>Iuly 5</cell>
+                        <cell>deſ 10</cell>
+                        <cell>Feb 12</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                        <cell>11</cell>
+                        <cell>12</cell>
+                        <cell>13</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>16</cell>
+                        <cell>17</cell>
+                        <cell>18</cell>
+                        <cell>19</cell>
+                        <cell>20</cell>
+                        <cell>21</cell>
+                     </row>
+                     <row>
+                        <cell>22</cell>
+                        <cell>23</cell>
+                        <cell>24</cell>
+                        <cell>25</cell>
+                        <cell>26</cell>
+                        <cell>27</cell>
+                        <cell>28</cell>
+                     </row>
+                     <row>
+                        <cell>29</cell>
+                        <cell>30</cell>
+                        <cell>31</cell>
+                        <cell>O</cell>
+                        <cell>O</cell>
+                        <cell>O</cell>
+                        <cell>O</cell>
+                     </row>
+                  </table>
+               </p>
+               <div type="almanac">
+                  <pb facs="tcp:171727:73"/>
+                  <head>The Contents of the Almanack.</head>
+                  <p>IN the the two uppermoſt Lines or Columns, are the 12 Moneths, beginning with <hi>March,</hi> ſo that the Figure of 1 is <hi>March,</hi> the Figure of 2 is <hi>April,</hi> the Figure of 3 is <hi>May,</hi> the Figure of 4 is <hi>June,</hi> the Figure of 5 <hi>July,</hi> and ſo on.</p>
+                  <p>Secondly, know, the 31 Figures under, are the dayes of every Moneth.</p>
+                  <p>The third thing that you muſt know, is, what day of the week the firſt day of <hi>March begins,</hi> as in the year 1661, the firſt day of <hi>March</hi> falls upon a Friday; in the year 1662 it falls on a Satur<g ref="char:EOLhyphen"/>days,
+<pb facs="tcp:171727:74"/>
+ſo that the days of the month which are under the month in the ſame Column, are tueſdays or wedneſdays, or ſatur<g ref="char:EOLhyphen"/>days as the firſt day of <hi>March</hi> is of.</p>
+                  <div type="example">
+                     <head>As for Example.</head>
+                     <p>In the year 1662 look for <hi>No<g ref="char:EOLhyphen"/>vember,</hi> which is nine, and under it you will find, 1, 8, 15, 22, 29. which are all ſaturdays in <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> and <hi>March,</hi> and ſo counting on you will find 22 to be upon a Saturday: And the more you uſe it, the better you will know the uſe of it.</p>
+                  </div>
+                  <div type="example">
+                     <head>Another Example.</head>
+                     <p>In the year 1661, the firſt of <hi>March</hi> is on a Friday, look
+<pb facs="tcp:171727:74"/>
+for <hi>July,</hi> which is 5, and under it you will ſee, 5, 12, 19, 26, which are all Fridays in <hi>July</hi> and <hi>April,</hi> being the Figure 2 over it, and if the fifth day is Friday, the ſixth is Saturday, the ſeventh is Sunday, the eighth Munday, the ninth Tueſday, the tenth Wedneſday, and ſo on.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="section">
+               <head>Of the World.</head>
+               <p>THe world is round like a ball, and is divided into four parts. 1. <hi>Europe, 2. Aſia, 3. Africa, 4. America.</hi>
+               </p>
+               <p>In <hi>Europe,</hi> is <hi>England, Scot<g ref="char:EOLhyphen"/>land, Ireland, France, Spain, Italy,
+<pb facs="tcp:171727:75"/>
+Germany</hi> and many other Coun<g ref="char:EOLhyphen"/>tries.</p>
+               <p>In <hi>Aſia</hi> is <hi>China, Tartaria,</hi> and <hi>Perſia:</hi> in this part of the world was Paradiſe, and the Land of Promiſe.</p>
+               <p>In <hi>Africa</hi> is <hi>Ethiopia, Egypt,</hi> and <hi>Barbaria,</hi> with many more conſiderable Countries.</p>
+               <p>In <hi>America</hi> is <hi>Hiſpaniola, Cuba, Braſilia, Margarite, Inſule,</hi> and many more Provinces and Iſlands in that part of the World.</p>
+            </div>
+            <div type="section">
+               <head>Of the five ſenſes.</head>
+               <p>The five Senſes are, Smelling, Taſting, Hearing, Seeing and Feeling.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:75"/>
+               <head>Of the Seven Liberal Sciences or Arts.</head>
+               <p>THe ſeven liberal Sciences are 1 Grammar. 2 Logick. 3 Rhe<g ref="char:EOLhyphen"/>torick. 4 Muſick. 5. Arithme<g ref="char:EOLhyphen"/>tick. 6 Geometry. 7 Aſtronomy.</p>
+            </div>
+            <div type="chronology">
+               <head>
+                  <hi>A Brief Chronology of things memo<g ref="char:EOLhyphen"/>rable to the year</hi> 1665.</head>
+               <list>
+                  <item>SInce the Creation of the world, with <hi>Adam</hi> and <hi>Eve,</hi> and all things therein. 3668</item>
+                  <item>Since the world was deſtroyed with water, called <hi>Noah's Flood.</hi> 3974</item>
+                  <item>
+                     <pb facs="tcp:171727:76"/>
+Since the Iſraelites departed out of <hi>Egypt.</hi> 3165</item>
+                  <item>Since the Birth of our Saviour, the Lord Jeſus Chriſt. 1665</item>
+                  <item>Since the deſtruction of <hi>Sodom</hi> and <hi>Gomorrah.</hi> 3583</item>
+                  <item>Since <hi>London</hi> was built. 2774</item>
+                  <item>Since <hi>Paul</hi>'s Converſion. 1633</item>
+                  <item>Since <hi>John</hi> wrote the Revelation. 1682</item>
+                  <item>Since <hi>England</hi> received the Chri<g ref="char:EOLhyphen"/>ſtian Faith. 1491</item>
+                  <item>Since Printing was firſt uſed in <hi>England.</hi> 208</item>
+                  <item>Since the firſt Lord Mayor of <hi>London.</hi> 476</item>
+                  <item>Since Guns were firſt uſed in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> 287</item>
+                  <item>
+                     <pb facs="tcp:171727:76"/>
+Since the Earthquake in <hi>Engl.</hi> 88</item>
+                  <item>Tobacco firſt uſed in <hi>England.</hi> 89</item>
+                  <item>Since the Gunpowder-treaſon. 61</item>
+                  <item>Since the great Blazing ſtar. 50</item>
+                  <item>Since the laſt great plague in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> 43</item>
+                  <item>Since K. <hi>Charles</hi> was murther'd. 16</item>
+                  <item>Since the Birth of King <hi>Charles</hi> the Second. 35</item>
+                  <item>Since the laſt great Froſt. 61</item>
+                  <item>Since the Fire on <hi>London-</hi>Bridge. 34.</item>
+                  <item>Since <hi>Edge-hill</hi> Fight. 23</item>
+                  <item>Since <hi>Naſeby</hi> Fight. 20</item>
+                  <item>Since <hi>Oliver</hi> the Tyrant was pro<g ref="char:EOLhyphen"/>claimed Protector. 9</item>
+                  <item>Since his Majeſties Reſtoration. 5</item>
+               </list>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:77"/>
+               <head>The Youths choice of Trades.</head>
+               <p>A A Pothecary, Attourney, Ar<g ref="char:EOLhyphen"/>morer, Anchor-ſmith.</p>
+               <p>B Baker, Barber, Black-ſmith, Book<g ref="char:EOLhyphen"/>ſeller, Book-binder, Box-maker, Braſier, Brick-maker, Butcher.</p>
+               <p>C Carpenter, Cardmaker, Car<g ref="char:EOLhyphen"/>man, Carver, Chandler, Cheeſ<g ref="char:EOLhyphen"/>monger, Chirurgeon, Claſp-ma<g ref="char:EOLhyphen"/>ker, Clock-maker, Clothier, Coo<g ref="char:EOLhyphen"/>per, Cloth-worker, Coach-ma<g ref="char:EOLhyphen"/>ker, Comb-maker, Confectioner, Currier, Cutler, Cook.</p>
+               <p>
+                  <pb facs="tcp:171727:77"/>
+D Draper of Linnen and Woollen Cloth, Draper of Cloth, Dyer.</p>
+               <p>F Farrier, Fel-monger, Felt-ma<g ref="char:EOLhyphen"/>ker, Fiſh-monger, Fiſhook-ma<g ref="char:EOLhyphen"/>ker, Fringe-maker, Furrier.</p>
+               <p>G Glaſier, Glaſs-maker, Glaſs<g ref="char:EOLhyphen"/>ſeller, Globe-maker, Goldſmith, Glover, Grocer, Graver, Guilder, Gunſmith.</p>
+               <p>H Haberdaſher of ſmall Wares and Hats, Hemp-beater, Hoſier, Hot-preſſer.</p>
+               <p>I Jeweller, Imbroderer, Ink-horn<g ref="char:EOLhyphen"/>maker,
+<pb facs="tcp:171727:78"/>
+Inſtrument-maker, Iron<g ref="char:EOLhyphen"/>monger.</p>
+               <p>L Leather-ſeller, Leather-dreſſer, Lockſmith.</p>
+               <p>M Merchant, Mercer, Millinor, Muſician, Maulſter, Mariner, Ma<g ref="char:EOLhyphen"/>ſon, Meal-man.</p>
+               <p>N Needle-maker, Netmaker.</p>
+               <p>O Oylman.</p>
+               <p>P Printer, Painter, Paſt-board<g ref="char:EOLhyphen"/>maker, Pavier, Perfumer, Perry<g ref="char:EOLhyphen"/>wig-maker, Pewterer, Plummer, Plaiſterer, Potter, Poulterer.</p>
+               <p>R. Rope-maker, Rope-ſeller.</p>
+               <p>
+                  <pb facs="tcp:171727:78"/>
+S Sadler, Salter, Scrivener, Saw<g ref="char:EOLhyphen"/>yer, Ship-Carpenter, Shoe-maker, Silk-dyer, Silk-man, Silk-weaver, Silverſmith, Soap-boyler, Statio<g ref="char:EOLhyphen"/>ner, Spurrier, Stone-cutter.</p>
+               <p>T Tanner, Tallow-chandler, To<g ref="char:EOLhyphen"/>baco-pipe-maker, Throſter of ſilk, Trunk-maker, Turner, Taylor.</p>
+               <p>V Vintner, Virginal-maker, Up<g ref="char:EOLhyphen"/>holſterer.</p>
+               <p>W Watch-maker, Woodmonger, Wax-chandler, Weaver, Wyre<g ref="char:EOLhyphen"/>drawer, Wine-cooper, Wheel<g ref="char:EOLhyphen"/>wright, Water-man.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:171727:79"/>
+               <head>
+                  <hi>The form of an Apprentice his In<g ref="char:EOLhyphen"/>denture in</hi> London.</head>
+               <p>
+                  <hi>THis Indenture witneſſeth,</hi> that <hi>Joſeph Goodſon,</hi> ſon of <hi>Jacob Goodman,</hi> Yeoman, in the County of <hi>Kent,</hi> doth put himſelf an Ap<g ref="char:EOLhyphen"/>prentice, to <hi>John Goodmaſter,</hi> Ci<g ref="char:EOLhyphen"/>tizen and Mercer of <hi>London,</hi> to learn his Art: and with him af<g ref="char:EOLhyphen"/>ter the manner of an Apprentice, to ſerve him from the day of the Date hereof, unto the full end and term of ſeven years, from thence next following, to be be ful<g ref="char:EOLhyphen"/>ly compleat and ended. During which term, the ſaid Apprentice his ſaid Maſter faithfully ſhall
+<pb facs="tcp:171727:79"/>
+ſerve, his ſecrets keep, his lawful commands very gladly do: He ſhall do no dammage to his ſaid Maſter, nor ſee to be done of o<g ref="char:EOLhyphen"/>thers, but that he to his power ſhall let, or forthwith give notice to his ſaid Maſter: He ſhall not waſte the goods of his ſaid Ma<g ref="char:EOLhyphen"/>ſter, nor lend them unlawfully to any: He ſhall not commit forni<g ref="char:EOLhyphen"/>cation, nor contract Matrimony within the ſaid term: He ſhall not play at Cards, Dice, Tables, or any other unlawful Games, whereby his ſaid Maſter may have any loſs with his own goods or o<g ref="char:EOLhyphen"/>thers, during the ſaid term; with<g ref="char:EOLhyphen"/>out his Maſters licence, he ſhall
+<pb facs="tcp:171727:80"/>
+neither buy nor ſell: He ſhall not haunt Taverns nor Play-houſes, nor abſent himſelf from his ſaid Maſters ſervice, day nor night un<g ref="char:EOLhyphen"/>lawfully; but in all things as a faithful Apprentice, he ſhall be<g ref="char:EOLhyphen"/>have himſelf towards his ſaid Ma<g ref="char:EOLhyphen"/>ſter and all his, during the ſaid term. And the ſaid Maſter his ſaid Apprentice in the ſame Art which he uſeth, by the beſt means that he can, ſhall teach and in<g ref="char:EOLhyphen"/>ſtruct, or cauſe to be taught and inſtructed; finding unto his ſaid Apprentice meat, drink, apparel, lodging and all other neceſſaries, according to the cuſtom of the City of <hi>London,</hi> during the ſaid
+<pb facs="tcp:171727:80"/>
+term, and for the true perform<g ref="char:EOLhyphen"/>ance of all and every the ſaid Covenants and agreements, ei<g ref="char:EOLhyphen"/>ther of the ſaid parties bindeth himſelf unto each other by theſe preſents: In witneſs whereof the parties above-named, to this In<g ref="char:EOLhyphen"/>denture interchangeably, have put their hands and ſeals, the firſt day of <hi>May,</hi> in the year of our Lord, 1660.</p>
+               <closer>
+                  <signed>Joſeph Goodſervant.</signed>
+               </closer>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:171727:81"/>
+               <head>A Prayer for the King.</head>
+               <p>O Moſt mighty &amp; ever-living Lord God, Creator of all men, Governour of Empires, and Eſtabliſher of all Kingdoms, who out of the loyns of our Father <hi>Abraham</hi> didſt chooſe a King that became the Saviour of all Kings and Nations of the earth; Bleſs, we beſeech thee, thy faithful Ser<g ref="char:EOLhyphen"/>vant, and our dread Sovereign Lord King <hi>Charles,</hi> with the rich<g ref="char:EOLhyphen"/>eſt bleſſings of thy Grace; Eſta<g ref="char:EOLhyphen"/>bliſh him in the Throne of His Kingdom by thy mighty power and protection: viſit him, as thou didſt viſit <hi>Moſes</hi> in the Buſh, <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi>
+                  <pb facs="tcp:171727:81"/>
+in the Battel, <hi>Gideon</hi> in the Field, and <hi>Samuel</hi> in the Temple: Let the Dew of thine abundant mercies fall upon his head, and give unto him the bleſſing of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and <hi>Solomon:</hi> Be unto him an Helmet of Salvation againſt the face of his enemies, and a ſtrong Tower of Defence in the time of Adverſity: Let his Reign be proſ<g ref="char:EOLhyphen"/>perous, and his days many. Let Peace, and Love, and Holineſs; let Juſtice and Truth, and all Chriſtian vertues, flouriſh in his time: let his people ſerve him with honour and obedience, and let him ſo duly ſerve thee here on earth, that he may hereafter
+<pb facs="tcp:171727:82"/>
+everlaſtingly raign with thee in heaven, through Jeſus Chriſt our Lord and only Saviour.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <head>Another Prayer for the King.</head>
+               <p>O Almighty and everlaſting God, Creator &amp; Lord of all things, give ear, we beſeech thee, unto our humble Prayers, &amp; mul<g ref="char:EOLhyphen"/>tiply thy bleſſings upon thy ſer<g ref="char:EOLhyphen"/>vant our Sovereign King <hi>Charles,</hi> whom in all lowly devotion we commend unto thy high Majeſty; that he being ſtrengthened with the faith of <hi>Abraham,</hi> endued with the mildneſs of <hi>Moſes,</hi> arm<g ref="char:EOLhyphen"/>ed with the magnanimity of <hi>Jo<g ref="char:EOLhyphen"/>ſhua,</hi> exalted with the humility of
+<pb facs="tcp:171727:82"/>
+                  <hi>David,</hi> beautified with the wiſ<g ref="char:EOLhyphen"/>dom of <hi>Solomon,</hi> and repleniſhed with the goodneſs and holineſs of them all, he may walk uprightly before thee in the way of righte<g ref="char:EOLhyphen"/>ouſneſs, and like a mighty King may be powerful over his ene<g ref="char:EOLhyphen"/>mies, governing his people with equity, and preſerving thy Church with Truth and Peace; through Jeſus Chriſt our Lord.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <head>Another.</head>
+               <p>GRant we beſeech thee, al<g ref="char:EOLhyphen"/>mighty God, that our Sove<g ref="char:EOLhyphen"/>reign Lord the King may be a moſt mighty Protector of his people, a Religious Defender of
+<pb facs="tcp:171727:83" rendition="simple:additions"/>
+thy ſacred Faith, a bountiful Com<g ref="char:EOLhyphen"/>forter of thy holy Church, a glo<g ref="char:EOLhyphen"/>rious Triumpher over all his E<g ref="char:EOLhyphen"/>nemies, a gracious Governour unto all his Subjects, and a happy Father of many children, to rule this Nation by ſucceſſion in all Ages, through Jeſus Chriſt our Lord.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <p>
+               <pb facs="tcp:171727:83"/>
+               <figure>
+                  <figDesc>Royal Oak coat of arms: three crowns across an oak tree with two faces peeking out from the upper branches</figDesc>
+                  <head>The Royall Oak</head>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
